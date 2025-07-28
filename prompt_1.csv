@@ -1,0 +1,758 @@
+meeting_id,demo_booked,email,first_name,last_name,company_name,demo_status,rep,demo_scheduled,segment
+b41c0784-f7cd-4712-a14e-8e567d71d358,2025/06/22 0:00,janet.thomas@davisconsulting.com,Janet,Thomas,Davis Consulting,No-Show,Riley Davis,25-Jun-25,SMB
+105d7a32-431e-4e69-8edc-861c2c1edf4a,05-May-25,wayne.morgan@redwoodgroup.com,Wayne,Morgan,Redwood Group,Held,Casey Miller,06 May 2025,ENT
+4c293ad3-65f6-4716-b497-bb0dca41ffc4,18/06/2025,janet.bates@parks-paceglobal.com,Janet,Bates,Parks-Pace Global,No-Show,Alex Smith,02-Jul-25,MM
+17213deb-baff-4617-8841-82f2e48b32ca,04/19/2025,angelica.tucker@forgecapital.com,Angelica,Tucker,Forge Capital,Held,Riley Davis,04-21-2025,SMB
+a7b5be59-b892-47e0-810e-c50fac881b91,2025/05/14 0:00,james.padilla@lunarservices.com,James,Padilla,Lunar Services,Held,Riley Davis,20250516,SMB
+8e365700-1750-4dc3-ad9b-533fe6802542,13-Apr-25,anna.henderson@phoenixpartners.com,Anna,Henderson,Phoenix Partners,No-Show,Casey Miller,14-Apr-25,ENT
+be95beac-2be2-4652-9202-38bb7914a5ed,08/07/2025,melissa.brewer@cascadegroup.com,Melissa,Brewer,Cascade Group,Scheduled,Morgan Brown,2025/07/21 0:00,SMB
+048f07ce-5703-4710-8690-b55ae77da01e,07 July 2025,laura.wright@jennings-dynamics.com,Laura,Wright,Jennings Dynamics,Scheduled,Taylor Lee,20250720,MM
+6eab8b4d-c31d-486d-a7a5-fae1d29c3b58,19 May 2025,jason.rhodes@vertexlabs.com,Jason,Rhodes,Vertex Labs,Canceled,Riley Davis,05/24/2025,SMB
+6b1e383c-a41d-4ad0-bbc6-f14c46a8fbc1,06-Jul-25,denise.jacobs@bluelabs.com,Denise,Jacobs,Blue Labs,Scheduled,Morgan Brown,19/07/2025,MM
+543d6551-4c4f-4933-8ffa-6edafc5d0c6d,07-01-2025,timothy.garza@williamsenterprises.com,Timothy,Garza,Williams Enterprises,Scheduled,Alex Smith,07/16/2025,MM
+72d16446-0d96-4bee-946f-65cc958d9517,2025/06/24 0:00,michael.jones@bradford-enterprises.com,Michael,Jones,Bradford Enterprises,No-Show,Casey Miller,28 June 2025,ENT
+942cf572-b83b-4789-a158-f7a899c807b2,07-08-2025,michael.buchanan@haynes-mossnetworks.com,Michael,Buchanan,Haynes-Moss Networks,Scheduled,Morgan Brown,26 July 2025,MM
+146dfa20-f4c3-4270-b079-58395b795d26,06/20/2025,lacey.jones@cranetechnologies.com,Lacey,Jones,Crane Technologies,No-Show,Casey Miller,20250623,ENT
+68322c76-4024-4e84-bcf3-67f2302d5e49,14-Apr-25,fred.smith@velocitydynamics.com,Fred,Smith,Velocity Dynamics,no show,Morgan Brown,19/04/2025,MM
+7ad8ebe2-f4c3-45b5-aa9c-7c44eea6ab88,30 June 2025,andrea.barber@austin-dynamics.com,Andrea,Barber,Austin Dynamics,No-Show,Morgan Brown,2025/07/10 0:00,MM
+a23e11b3-cfe9-4f9b-990f-3fd1835958a7,2025/07/12 0:00,elizabeth.daniel@franco-solutions.com,Elizabeth,Daniel,Franco Solutions,Scheduled,Jordan Johnson,01-Aug-25,MM
+c629b022-14f9-44d2-9b1d-02a210069ece,06/07/2025,james.brown@silvercapital.com,James,Brown,Silver Capital,No-Show,Morgan Brown,06-26-2025,MM
+7271b7c1-9971-4c90-9669-b0909987d985,04/28/2025,brian.rodriguez@novainnovations.com,Brian,Rodriguez,Nova Innovations,Held,Riley Davis,01-May-25,SMB
+0a266de9-b1ef-4a46-95fd-e4526cf1490e,06-30-2025,luis.fields@adams-claytonlabs.com,Luis,Fields,Adams-Clayton Labs,No-Show,Riley Davis,"Jul 03, 2025",SMB
+8c9b5f63-ad5f-42ad-b5e9-a90a90e423b0,23/06/2025,michael.cooper@forgenetworks.com,Michael,Cooper,Forge Networks,Canceled,Morgan Brown,07-10-2025,MM
+1ede0176-7bc7-4b90-a9e5-cfafaf46aaec,07-09-2025,sharon.gregory@morgan-holdings.com,Sharon,Gregory,Morgan Holdings,Scheduled,Taylor Lee,07-24-2025,MM
+35a45135-0dcc-4162-b910-ecd5184818ee,15 April 2025,emily.bennett@nimbusgroup.com,Emily,Bennett,Nimbus Group,Held,Quinn Thomas,"Apr 18, 2025",ENT
+f2b127f7-d0f9-4ca2-b1fb-a049b579cf5c,28-Jun-25,rachel.greene@phillips-group.com,Rachel,Greene,Phillips Group,Scheduled,Morgan Brown,2025/07/15 0:00,SMB
+77334558-8344-49f3-b376-dda937ad91e6,21-Jun-25,brian.fitzgerald@blueanalytics.com,Brian,Fitzgerald,Blue Analytics,No-Show,Taylor Lee,04 July 2025,MM
+abf724a0-a224-4140-8dc6-fa0806bc1f7d,04/27/2025,ralph.anderson@quantumgroup.com,Ralph,Anderson,Quantum Group,No-Show,Taylor Lee,04/30/2025,MM
+1b3b6074-d66d-4bb5-b1d8-27666e436746,"Jun 01, 2025",samantha.garcia@apextechnologies.com,Samantha,Garcia,Apex Technologies,Held,Alex Smith,09 June 2025,SMB
+0b21cc07-3bb7-4423-bcb0-3ed6dd0b417a,06-28-2025,anthony.romero@summitconsulting.com,Anthony,Romero,Summit Consulting,Scheduled,Morgan Brown,14-Jul-25,MM
+4a2a318f-421c-42fc-9e02-32cade79d50d,07-04-2025,rodney.barnes@campbellgroup.com,Rodney,Barnes,Campbell Group,Scheduled,Jordan Johnson,2025/07/18 0:00,MM
+80a7b871-0362-439b-984b-5b06bfa1aaaa,30-Jun-25,jennifer.williams@hunter-fullerventures.com,Jennifer,Williams,Hunter-Fuller Ventures,No-Show,Riley Davis,01 July 2025,SMB
+260c9420-badb-43e1-8838-ef5c25bcf088,04-21-2025,steve.sanchez@pioneergroup.com,Steve,Sanchez,Pioneer Group,no show,Casey Miller,22/04/2025,ENT
+4f76fc8a-a82c-4f51-9fb6-f1c0cfe16d9e,16-Jun-25,terri.ortiz@taylorpartners.com,Terri,Ortiz,Taylor Partners,No-Show,Jordan Johnson,04/07/2025,MM
+90b38210-fa01-4634-a82b-667a28aa5c42,"Jun 14, 2025",brent.ward@khanservices.com,Brent,Ward,Khan Services,No-Show,Casey Miller,"Jun 19, 2025",ENT
+6b17772c-937a-4a1d-98f2-aed700db63ea,2025/06/16 0:00,marie.christian@goldenconsulting.com,Marie,Christian,Golden Consulting,Held,Taylor Lee,07/03/2025,MM
+67d02e4b-fa4f-44e6-ad01-e2542ef0fb21,20250622,juan.hernandez@nguyen-ventures.com,Juan,Hernandez,Nguyen Ventures,No-Show,Jordan Johnson,02/07/2025,MM
+5e1ef635-bd1f-4d7d-b77a-8cdfe7ee633c,06/29/2025,ashley.barton@mosaicenterprises.com,Ashley,Barton,Mosaic Enterprises,Scheduled,Alex Smith,14-Jul-25,MM
+0a4041ce-6aa1-4775-8f9d-9416db7c366f,07-05-2025,timothy.mack@haynesinnovations.com,Timothy,Mack,Haynes Innovations,Scheduled,Jordan Johnson,20250717,MM
+cbb3c262-c8b8-4662-892d-e69d727fc2cf,06-22-2025,cameron.fisher@forgedynamics.com,Cameron,Fisher,Forge Dynamics,Held,Taylor Lee,03-Jul-25,MM
+726efcab-21da-4304-ad2b-49461e479c89,"Jul 01, 2025",jermaine.conley@walsh-works.com,Jermaine,Conley,Walsh Works,Scheduled,Taylor Lee,2025-07-20,MM
+c1638ea3-be0d-47ab-84b5-6638c69017cb,09-Jul-25,ashley.krause@brandt-systems.com,Ashley,Krause,Brandt Systems,Scheduled,Jordan Johnson,07-23-2025,MM
+147f47e5-ddc4-435f-be2d-96a7fc48873d,16-Apr-25,lori.hernandez@vertexcapital.com,Lori,Hernandez,Vertex Capital,Held,Alex Smith,21 April 2025,MM
+44293bbd-0f36-4001-a442-668a7f0b2d2e,12/07/2025,shawn.powell@stevenson-solutions.com,Shawn,Powell,Stevenson Solutions,Scheduled,Alex Smith,"Jul 26, 2025",MM
+7b2688a9-d3b9-421a-8bb7-5f6d88043fff,18 June 2025,brett.burns@lunarpartners.com,Brett,Burns,Lunar Partners,Held,Alex Smith,07/02/2025,MM
+2c604b1f-d089-4eff-858c-995790ad9ecd,20250712,nicole.gonzales@andrade-partners.com,Nicole,Gonzales,Andrade Partners,Scheduled,Alex Smith,07-26-2025,MM
+ecfb089a-e1f0-4abb-a191-9ee5026ebecc,20250703,alec.fisher@cervantes-garciadevices.com,Alec,Fisher,Cervantes-Garcia Devices,Scheduled,Taylor Lee,2025/07/23 0:00,MM
+0377d73a-475e-4093-8103-bb465034a97a,04-29-2025,steve.paul@goldensystems.com,Steve,Paul,Golden Systems,No-Show,Alex Smith,2025-04-30,MM
+94ed3b7b-1957-4fd9-b49b-ce1b4216f68a,09 June 2025,william.baker@velocitycapital.com,William,Baker,Velocity Capital,Canceled,Taylor Lee,20250621,MM
+308eae9b-e007-4a41-907c-ee584189b7f1,2025-05-06,joann.glass@silverconsulting.com,Joann,Glass,Silver Consulting,No-Show,Riley Davis,07-May-25,SMB
+960418f7-2c22-4a8f-96e8-0989d9fedaf4,"Jun 01, 2025",katie.suarez@nimbusinnovations.com,Katie,Suarez,Nimbus Innovations,No-Show,Riley Davis,"Jun 05, 2025",SMB
+c68e00a9-25ad-4b4b-b235-1aba96a268de,28-Jun-25,jessica.sims@gray-labs.com,Jessica,Sims,Gray Labs,no show,Jordan Johnson,07/11/2025,MM
+dc5a7627-c07f-47c9-baca-6f9716a6ced4,30/06/2025,juan.serrano@bowerscapital.com,Juan,Serrano,Bowers Capital,Scheduled,Jordan Johnson,2025/07/12 0:00,MM
+00543c46-4695-4ddf-99d9-56ce3b800cd2,"Apr 23, 2025",john.young@titanstudios.com,John,Young,Titan Studios,Cancelled,Alex Smith,29-Apr-25,MM
+0f67c349-ad26-4f05-ac2e-dd6e9df719e4,2025/06/24 0:00,connor.west@summitsystems.com,Connor,West,Summit Systems,Held,Taylor Lee,2025-07-06,MM
+3bab3570-5b53-429b-aa49-54098b9c28f2,2025-05-31,gabrielle.davis@nimbusconsulting.com,Gabrielle,Davis,Nimbus Consulting,Held,Quinn Thomas,05/06/2025,ENT
+6069a25d-6902-410c-8c29-33a575ca3567,09 June 2025,sharon.boyd@titanglobal.com,Sharon,Boyd,Titan Global,No-Show,Taylor Lee,28 June 2025,MM
+606ba63b-f596-4bec-a784-25b9d065240f,04 June 2025,dawn.summers@pioneerglobal.com,Dawn,Summers,Pioneer Global,Held,Quinn Thomas,08-Jun-25,ENT
+3869bd2b-4567-45e2-a1d2-376ed1d0947e,05/21/2025,kimberly.nguyen@nimbusanalytics.com,Kimberly,Nguyen,Nimbus Analytics,Cancelled,Riley Davis,05-23-2025,SMB
+e9de8bfe-bcef-4144-87f5-21617d88b423,2025/05/04 0:00,angela.vaughn@mosaicworks.com,Angela,Vaughn,Mosaic Works,Held,Riley Davis,"May 08, 2025",SMB
+e3a89618-ef59-4c90-9108-04a27820d083,"Apr 21, 2025",heather.fields@forgetechnologies.com,Heather,Fields,Forge Technologies,Held,Jordan Johnson,23/04/2025,MM
+550e2e8c-f76f-4f41-927c-8ddcbf2a8e0c,20250504,sherry.decker@quantumnetworks.com,Sherry,Decker,Quantum Networks,Held,Casey Miller,10/05/2025,ENT
+470a6a2f-754d-4988-85c5-a75697d9eaad,2025/04/21 0:00,jeremy.mitchell@titansystems.com,Jeremy,Mitchell,Titan Systems,No-Show,Casey Miller,24 April 2025,ENT
+c85db09c-1b85-4e49-b484-9f6f608efe5e,20250602,michael.warner@apexsystems.com,Michael,Warner,Apex Systems,No-Show,Riley Davis,03 June 2025,SMB
+a857a1d6-169a-4f6a-ae23-e37c42d7e466,04/15/2025,matthew.moon@cascadeholdings.com,Matthew,Moon,Cascade Holdings,Held,Taylor Lee,17-Apr-25,MM
+f6d76b6e-6fba-44d4-8a70-ba0863e66396,20250616,yvonne.burns@forgegroup.com,Yvonne,Burns,Forge Group,Held,Jordan Johnson,20250703,MM
+0b73ffb3-1403-4a22-b0fd-5f134054dc9e,"Jun 15, 2025",paula.moreno@redwooddynamics.com,Paula,Moreno,Redwood Dynamics,No-Show,Morgan Brown,07-06-2025,MM
+2d7352fb-dc2e-4dee-86d9-bd43f45b6df5,19-Jun-25,matthew.smith@harris-lawsonlabs.com,Matthew,Smith,Harris-Lawson Labs,No-Show,Riley Davis,20 June 2025,SMB
+e8e24494-f36b-495e-b2fa-5f0d2adabd0c,06/22/2025,michele.cohen@andersonnetworks.com,Michele,Cohen,Anderson Networks,No-Show,Skyler Moore,2025/06/25 0:00,SMB
+096eccfd-cdf9-48fb-8551-73f1953e5d68,"Jun 12, 2025",robert.avila@fisher-partners.com,Robert,Avila,Fisher Partners,no show,Casey Miller,"Jun 13, 2025",ENT
+dda9cd16-8bf9-4879-911f-6dfb16a31cce,"Apr 30, 2025",jeffery.ortega@velocityventures.com,Jeffery,Ortega,Velocity Ventures,No-Show,Skyler Moore,01-May-25,SMB
+2cbf5e53-251e-4327-be9c-f56484e0d7ef,20250625,crystal.johnson@lunaranalytics.com,Crystal,Johnson,Lunar Analytics,Held,Jordan Johnson,07-10-2025,MM
+001943ab-7bab-4d6e-847f-ffb9c9a55964,2025-06-25,kristina.lane@bishopsolutions.com,Kristina,Lane,Bishop Solutions,No-Show,Alex Smith,"Jul 10, 2025",MM
+f579929a-143b-4364-9e36-b47ed1dd02f7,"Jul 01, 2025",phillip.berry@horizonholdings.com,Phillip,Berry,Horizon Holdings,Scheduled,Alex Smith,15/07/2025,MM
+fbef4c86-cd50-48df-ae02-786299859b5b,2025/04/26 0:00,ronald.davis@horizontechnologies.com,Ronald,Davis,Horizon Technologies,Held,Taylor Lee,"May 01, 2025",MM
+a37ae916-7ae1-4fe7-aa5e-133e8f411d9e,05/07/2025,michelle.ho@summitglobal.com,Michelle,Ho,Summit Global,Held,Jordan Johnson,07-20-2025,MM
+75d6e38d-c66e-4d3d-9831-fe712afde8ad,2025/04/20 0:00,christopher.smith@stellarsystems.com,Christopher,Smith,Stellar Systems,Held,Skyler Moore,26 April 2025,SMB
+b8a70417-3716-4da3-91f8-e67c777bbac7,"Jul 02, 2025",logan.mann@baker-wilsoncapital.com,Logan,Mann,Baker-Wilson Capital,No-Show,Skyler Moore,07/05/2025,SMB
+c6840fe9-7c6e-40b9-ada7-86679bfd3597,19/04/2025,christina.walters@pioneerworks.com,Christina,Walters,Pioneer Works,Held,Taylor Lee,"Apr 22, 2025",MM
+72a6762b-9025-4105-ac90-1bfcdb78045e,06/25/2025,justin.stuart@roberts-analytics.com,Justin,Stuart,Roberts Analytics,No-Show,Morgan Brown,03 July 2025,MM
+b2ea4228-5be0-4934-a6b3-7c3033bf9430,20250622,joshua.perry@titandevices.com,Joshua,Perry,Titan Devices,Scheduled,Jordan Johnson,07-12-2025,MM
+986a3d56-2dd7-4b81-8c32-c4f5dd910fde,23/06/2025,gina.moore@velocitygroup.com,Gina,Moore,Velocity Group,Scheduled,Jordan Johnson,14/07/2025,MM
+84beb78b-8253-429b-bf06-442cfb2fb568,2025/07/12 0:00,max.monroe@jonesdevices.com,Max,Monroe,Jones Devices,Scheduled,Jordan Johnson,23/07/2025,MM
+6af6ba30-7d8a-4318-891e-7b25f84db7c6,20250629,matthew.white@clarksolutions.com,Matthew,White,Clark Solutions,No-Show,Jordan Johnson,2025/07/11 0:00,MM
+ddc5e7f5-8034-4fa0-a44f-bcf61b7c1816,27-Apr-25,sandra.aguilar@velocitydevices.com,Sandra,Aguilar,Velocity Devices,No-Show,Quinn Thomas,05-02-2025,ENT
+e3c50e60-1778-434e-8cb5-48198c2bebbe,20250701,andrea.gates@aguirregroup.com,Andrea,Gates,Aguirre Group,Scheduled,Taylor Lee,17-Jul-25,MM
+12ca9162-5ace-46cb-a76b-d6c1a47d23dd,07/12/2025,karen.diaz@jackson-edwardsnetworks.com,Karen,Diaz,Jackson-Edwards Networks,Scheduled,Jordan Johnson,20250723,MM
+ca74dddb-48ec-46b5-acb2-9271676891df,07/05/2025,debbie.miller@bryanttechnologies.com,Debbie,Miller,Bryant Technologies,Scheduled,Morgan Brown,17/07/2025,MM
+b8c14aa2-104b-405b-a3c0-fbfed934971e,17-May-25,carolyn.miller@titangroup.com,Carolyn,Miller,Titan Group,No-Show,Casey Miller,18/05/2025,ENT
+b0dc133e-c0cc-4632-8bdd-07a4f9c69b88,"Jun 03, 2025",courtney.rodriguez@horizoninnovations.com,Courtney,Rodriguez,Horizon Innovations,No-Show,Jordan Johnson,06-16-2025,MM
+4bffa5b4-5dd9-4d24-ad40-6abae30c249d,05/05/2025,tammie.bright@novasystems.com,Tammie,Bright,Nova Systems,Held,Morgan Brown,07 May 2025,MM
+6b7f6dee-6bdf-4efc-a565-a6d7c88bf2bf,20250711,todd.black@barnestechnologies.com,Todd,Black,Barnes Technologies,Scheduled,Morgan Brown,07-29-2025,MM
+2037c507-52ef-44b3-9ae9-4e4f79f65745,"Apr 30, 2025",larry.dixon@stellarstudios.com,Larry,Dixon,Stellar Studios,Held,Quinn Thomas,01 May 2025,ENT
+65b258f0-4b8c-435c-8043-9a2bc5ef21a0,19 May 2025,maria.parker@forgeconsulting.com,Maria,Parker,Forge Consulting,Held,Alex Smith,2025-05-21,MM
+73095d30-3fc8-423d-9a82-275cda14c48e,"Jul 08, 2025",jeremy.reed@stellartechnologies.com,Jeremy,Reed,Stellar Technologies,Scheduled,Alex Smith,07-16-2025,MM
+a40d335c-ff36-4c00-baf0-f53c8b86bc55,2025/04/20 0:00,jordan.chambers@summitworks.com,Jordan,Chambers,Summit Works,No-Show,Alex Smith,04/25/2025,MM
+410ed719-a564-4c5c-8928-1a9a1ea0ab88,2025/06/30 0:00,carrie.wright@velocitysystems.com,Carrie,Wright,Velocity Systems,Held,Morgan Brown,07-09-2025,MM
+ab38619b-6eff-4e82-b191-5bd2a752cfdf,20250703,timothy.robinson@thomas-innovations.com,Timothy,Robinson,Thomas Innovations,Scheduled,Morgan Brown,2025/07/18 0:00,MM
+89e5f2d6-e4c1-4e23-bb5d-270312646e6b,07-03-2025,christopher.hawkins@wang-partners.com,Christopher,Hawkins,Wang Partners,Scheduled,Taylor Lee,20250713,MM
+2503e92b-3a0d-42f8-aa01-52212c3aebc6,23/06/2025,shelly.spence@oconnorventures.com,Shelly,Spence,Oconnor Ventures,No-Show,Skyler Moore,06-27-2025,SMB
+dec9a8bb-ba22-4230-b8fd-1c279af2d97a,22-Apr-25,allison.hill@summitdynamics.com,Allison,Hill,Summit Dynamics,No-Show,Skyler Moore,04-28-2025,SMB
+2db0d3cb-66b5-46e7-85b8-326ad8f7f6a9,"Apr 12, 2025",kevin.walters@stellarcapital.com,Kevin,Walters,Stellar Capital,Held,Jordan Johnson,14 April 2025,MM
+1d1e3468-17b1-42a1-9a13-10c9f0924241,2025/04/29 0:00,william.herrera@nimbuslabs.com,William,Herrera,Nimbus Labs,No-Show,Skyler Moore,"Apr 30, 2025",SMB
+81264b62-e341-4b34-adf0-369ba40248a7,2025-05-24,victor.taylor@goldeninnovations.com,Victor,Taylor,Golden Innovations,Held,Skyler Moore,"May 25, 2025",SMB
+e75de54d-4bae-419c-9806-77d9d91d0cca,28 June 2025,tanya.schultz@taylordynamics.com,Tanya,Schultz,Taylor Dynamics,Scheduled,Jordan Johnson,07/15/2025,MM
+2014f64b-3290-4cdf-a8ef-2667092c19ed,07-11-2025,tony.rodriguez@carr-huffmanworks.com,Tony,Rodriguez,Carr-Huffman Works,Scheduled,Jordan Johnson,"Jul 23, 2025",MM
+35f8283a-54b2-488d-9eea-dd86935bb89b,01-Jul-25,nicholas.harris@jones-group.com,Nicholas,Harris,Jones Group,Scheduled,Jordan Johnson,2025-07-15,MM
+c0313157-c125-4162-bc26-931a89429391,"Jul 10, 2025",gabrielle.williams@clayservices.com,Gabrielle,Williams,Clay Services,Scheduled,Jordan Johnson,07/31/2025,MM
+356a8724-c930-41f5-8611-79a2836e8e2f,06/07/2025,jeffrey.perez@ward-ventures.com,Jeffrey,Perez,Ward Ventures,Scheduled,Skyler Moore,13 July 2025,SMB
+d19285b3-2a4b-4fa6-8300-6c78eef5b55a,2025-07-01,michael.frazier@russell-hayesventures.com,Michael,Frazier,Russell-Hayes Ventures,Scheduled,Taylor Lee,15 July 2025,MM
+39ebc40d-c6a5-47f8-a8b9-6d636db58259,2025-06-19,larry.cameron@bradyholdings.com,Larry,Cameron,Brady Holdings,No-Show,Skyler Moore,06/20/2025,SMB
+cde99277-2a70-4a40-af75-083286954b8c,20250702,stephen.robinson@bates-andersonholdings.com,Stephen,Robinson,Bates-Anderson Holdings,No-Show,Skyler Moore,2025/07/06 0:00,SMB
+3f7ffcfe-94d2-454d-9632-cda1bac6b502,16-Jun-25,patrick.lopez@peck-andersonventures.com,Patrick,Lopez,Peck-Anderson Ventures,No-Show,Casey Miller,17/06/2025,ENT
+45428080-119e-41c0-8f54-ad95d197f15e,2025/04/30 0:00,james.bradley@bluetechnologies.com,James,Bradley,Blue Technologies,Held,Casey Miller,"May 01, 2025",ENT
+03b1dd74-ba22-4593-9627-cb91d54bc468,2025-04-23,laura.mckinney@stellarholdings.com,Laura,Mckinney,Stellar Holdings,Held,Alex Smith,04/24/2025,MM
+fb15f194-bd81-40a5-b3e9-8558696380fe,2025/05/04 0:00,anthony.humphrey@lunarworks.com,Anthony,Humphrey,Lunar Works,No-Show,Alex Smith,05/09/2025,MM
+16241b8c-c054-4715-bcce-2538ae0ce218,"Jun 15, 2025",jeffrey.franklin@goodwinglobal.com,Jeffrey,Franklin,Goodwin Global,No-Show,Skyler Moore,16-Jun-25,SMB
+4a216ad9-e189-4e91-a1ad-096eac0d99f2,24-Jun-25,heather.davis@baxterdynamics.com,Heather,Davis,Baxter Dynamics,No-Show,Casey Miller,25 June 2025,ENT
+743ae770-3104-435b-865e-c71f161ff0ab,09 June 2025,jessica.garcia@horizonventures.com,Jessica,Garcia,Horizon Ventures,No-Show,Alex Smith,"Jun 24, 2025",MM
+538e7503-affe-4ab0-bb04-6fa5ab3b6e4e,"Jul 08, 2025",robert.arnold@bluedevices.com,Robert,Arnold,Blue Devices,Scheduled,Morgan Brown,20250723,MM
+ab3d0fb9-7462-4ad8-8ecb-b312512c53ad,29-Apr-25,daniel.baker@silverdevices.com,Daniel,Baker,Silver Devices,No-Show,Jordan Johnson,"May 04, 2025",MM
+9a267285-ffa3-4b63-9220-518441407bdd,2025-04-30,lindsey.walker@mosaiccapital.com,Lindsey,Walker,Mosaic Capital,Held,Casey Miller,05-01-2025,ENT
+0fb06157-e172-45fb-adfb-1a8800966bb6,06-21-2025,sandra.drake@pioneercapital.com,Sandra,Drake,Pioneer Capital,Held,Taylor Lee,07/09/2025,MM
+2959b177-2536-4781-b7d6-4c110ec7c99a,07 July 2025,alex.allen@browngroup.com,Alex,Allen,Brown Group,Scheduled,Morgan Brown,15-Jul-25,MM
+ae7cd3cd-3266-4f72-a567-5cacf8c6dc4e,20250513,linda.smith@novaanalytics.com,Linda,Smith,Nova Analytics,Held,Skyler Moore,05-18-2025,SMB
+33dd7c1d-99f7-432c-b931-08ff6d874c32,2025/05/07 0:00,lance.simmons@quantumenterprises.com,Lance,Simmons,Quantum Enterprises,No-Show,Skyler Moore,08/05/2025,SMB
+aeff2642-2047-48c9-ab67-8bd382fbdc27,20250514,katherine.martinez@silvergroup.com,Katherine,Martinez,Silver Group,No-Show,Jordan Johnson,05-17-2025,MM
+4de93163-fa31-4e58-88b8-69dfe47c27dd,2025-06-22,gina.olsen@robinson-consulting.com,Gina,Olsen,Robinson Consulting,No-Show,Alex Smith,2025-07-05,MM
+2d1872ed-0f85-458b-8712-b21ef94c2021,23/04/2025,danny.morgan@velocityenterprises.com,Danny,Morgan,Velocity Enterprises,Held,Casey Miller,"Apr 26, 2025",ENT
+ef70f316-023a-4172-974a-e74939386efd,20250423,denise.jones@horizongroup.com,Denise,Jones,Horizon Group,Held,Skyler Moore,04-27-2025,SMB
+2c17a94f-575e-4b2c-92b7-deb593667d37,"Jun 29, 2025",brittany.vincent@brown-mcneilinnovations.com,Brittany,Vincent,Brown-Mcneil Innovations,Scheduled,Morgan Brown,07-20-2025,MM
+c44b3d44-fb89-40b8-b018-8f6fb006787e,06/21/2025,paul.mills@tranworks.com,Paul,Mills,Tran Works,No-Show,Casey Miller,06/22/2025,ENT
+3a987455-4c13-4b8a-88cb-6809cc6a0f51,2025/07/02 0:00,alexandra.blankenship@combscapital.com,Alexandra,Blankenship,Combs Capital,No-Show,Jordan Johnson,07/11/2025,MM
+ae6d8fab-113f-4cbe-baf3-c43985857c6a,"Jun 22, 2025",curtis.taylor@titanenterprises.com,Curtis,Taylor,Titan Enterprises,Held,Jordan Johnson,02 July 2025,MM
+3c7e691e-065e-4cc9-aabb-34174e26bd9f,2025-06-27,daniel.hernandez@gallagherventures.com,Daniel,Hernandez,Gallagher Ventures,No-Show,Skyler Moore,29 June 2025,SMB
+49faebfd-fd52-4127-8cc5-692113b58947,08/07/2025,wesley.morgan@monroe-works.com,Wesley,Morgan,Monroe Works,Scheduled,Alex Smith,24/07/2025,MM
+f1f45d4e-2d0b-4cf9-bf90-80b099cd638b,2025/07/06 0:00,debra.christian@novadevices.com,Debra,Christian,Nova Devices,Scheduled,Jordan Johnson,07/12/2025,MM
+97532cb8-04c5-4781-a570-a6cddced6c32,2025-05-19,nicole.herring@bluegroup.com,Nicole,Herring,Blue Group,Held,Casey Miller,05-21-2025,ENT
+49975d22-2c37-4fea-84e3-5716233c53a6,2025-04-30,jessica.stephens@forgepartners.com,Jessica,Stephens,Forge Partners,No-Show,Skyler Moore,2025-05-04,SMB
+35d97c40-fb53-4d98-9e45-e36379f5160c,2025/05/11 0:00,stephanie.byrd@novastudios.com,Stephanie,Byrd,Nova Studios,No-Show,Skyler Moore,"May 15, 2025",SMB
+4a5d95a1-9869-456b-bfc6-a46431ea8b5a,2025/06/04 0:00,isaiah.avila@silvertechnologies.com,Isaiah,Avila,Silver Technologies,Canceled,Casey Miller,2025-06-05,ENT
+5de0db74-aa0b-4a37-a9d4-b01187b6fc00,2025-06-19,christopher.johnson@castillo-harringtonnetworks.com,Christopher,Johnson,Castillo-Harrington Networks,No-Show,Skyler Moore,24 June 2025,SMB
+a500dbf8-4065-4738-a43e-436ef1767293,2025-04-14,diana.may@forgeglobal.com,Diana,May,Forge Global,Held,Casey Miller,20250415,ENT
+507e3f45-8d1d-4799-85e1-c1a6d50244c2,14-Jun-25,william.day@lunarenterprises.com,William,Day,Lunar Enterprises,No-Show,Jordan Johnson,27 June 2025,MM
+2fa70bbe-ad37-44e5-ae5a-4737c5ada4f1,2025/05/24 0:00,jake.campbell@goldenlabs.com,Jake,Campbell,Golden Labs,No-Show,Skyler Moore,30/05/2025,SMB
+53421849-26bb-42f7-8b6c-54b34bcfcaf0,20250421,scott.williams@forgeventures.com,Scott,Williams,Forge Ventures,No-Show,Skyler Moore,2025-04-27,SMB
+e762b56f-bc55-4b4a-864f-4ce6f0170e81,2025-07-09,jesse.perry@horizonworks.com,Jesse,Perry,Horizon Works,Scheduled,Jordan Johnson,2025-07-19,MM
+caf1af62-e06c-4524-93ab-20a4e874368b,06/10/2025,rebecca.valencia@vertexsystems.com,Rebecca,Valencia,Vertex Systems,Held,Morgan Brown,"Jun 22, 2025",SMB
+7a49c114-f84a-4275-a2eb-45e569d3f0fe,2025/07/09 0:00,david.davis@forgesolutions.com,David,Davis,Forge Solutions,Scheduled,Jordan Johnson,20250721,MM
+77ee9749-b7c9-4ed6-b83e-e16e191077c7,2025-06-01,richard.smith@silverinnovations.com,Richard,Smith,Silver Innovations,Held,Morgan Brown,"Jun 22, 2025",MM
+21e06d50-35de-4701-8848-892e17c02f8f,21-Jun-25,evelyn.williams@lunarinnovations.com,Evelyn,Williams,Lunar Innovations,Held,Jordan Johnson,03/07/2025,MM
+021dea5b-14f8-45ef-a7a8-7a6232d2f687,05 July 2025,adam.miller@alexandergroup.com,Adam,Miller,Alexander Group,Scheduled,Taylor Lee,2025-07-15,MM
+30c02a7f-b567-4fef-a7ee-8e0611d7ddfd,07-02-2025,danielle.freeman@wilson-salazarglobal.com,Danielle,Freeman,Wilson-Salazar Global,Scheduled,Morgan Brown,15 July 2025,MM
+962d76e8-3bcc-4515-acd5-c27a1092a9ab,06 July 2025,lauren.mendez@wong-partners.com,Lauren,Mendez,Wong Partners,Scheduled,Morgan Brown,16/07/2025,MM
+a0de750c-b617-42ed-b9b0-83a419db7fb8,2025-07-02,holly.valentine@nimbustechnologies.com,Holly,Valentine,Nimbus Technologies,Scheduled,Morgan Brown,14-Jul-25,MM
+38b24178-1e84-485c-a49e-2686d9114c17,04-Jul-25,erin.mosley@lee-global.com,Erin,Mosley,Lee Global,Scheduled,Alex Smith,16 July 2025,MM
+294fd525-2122-471f-9a58-c73ec7599516,2025/05/13 0:00,joseph.knight@blueconsulting.com,Joseph,Knight,Blue Consulting,Held,Jordan Johnson,2025-05-16,MM
+395fac72-ca3c-45a7-b1a9-b53749c201de,"Jul 05, 2025",melissa.martinez@phoenixenterprises.com,Melissa,Martinez,Phoenix Enterprises,Scheduled,Alex Smith,2025/07/17 0:00,MM
+ce734a18-e09b-4dca-976f-28d44121cfc2,2025/05/11 0:00,jessica.holmes@titanpartners.com,Jessica,Holmes,Titan Partners,Held,Casey Miller,13/05/2025,ENT
+36097637-b020-4c0c-b8ff-251749aad980,2025-07-09,debra.davidson@apexgroup.com,Debra,Davidson,Apex Group,Scheduled,Jordan Johnson,07/28/2025,MM
+aa084da4-927d-4a6c-894e-d55fae9bd6f3,"Jul 04, 2025",christian.reed@wrightsolutions.com,Christian,Reed,Wright Solutions,Scheduled,Taylor Lee,"Jul 17, 2025",MM
+2bd50e61-d562-4bb7-bea8-7cbadb3dffe8,17 June 2025,jeremy.brown@penanetworks.com,Jeremy,Brown,Pena Networks,No-Show,Taylor Lee,07-Jul-25,MM
+f7a3872b-6cf5-49c8-813e-fb8b0866d33f,20250623,desiree.hernandez@pruitt-webbtechnologies.com,Desiree,Hernandez,Pruitt-Webb Technologies,No-Show,Alex Smith,07-07-2025,SMB
+cc782c70-a6b2-4ecf-8ffe-29d1a50e3fd2,05-20-2025,courtney.hayes@silverservices.com,Courtney,Hayes,Silver Services,Held,Skyler Moore,"May 22, 2025",SMB
+9b4da847-598c-4bf1-ab9d-a14546768547,"Jun 25, 2025",dana.johns@marsh-bankssystems.com,Dana,Johns,Marsh-Banks Systems,Scheduled,Jordan Johnson,07-13-2025,MM
+26eadc64-37ab-40ae-85ec-1a807271ec97,12 June 2025,gerald.powell@williamsanalytics.com,Gerald,Powell,Williams Analytics,No-Show,Skyler Moore,16/06/2025,SMB
+f8fec0be-f5ec-4201-bfa7-fe739e17ae06,12/07/2025,jillian.young@white-global.com,Jillian,Young,White Global,Scheduled,Morgan Brown,"Jul 27, 2025",MM
+629cea06-07ef-409b-a0c9-e9848c6661fa,04-22-2025,jesse.brown@vertexdynamics.com,Jesse,Brown,Vertex Dynamics,Held,Taylor Lee,"Apr 25, 2025",MM
+e62dc6e8-c5bf-428f-9fb2-7f3cde0f63f3,20250705,kristen.joseph@molinaworks.com,Kristen,Joseph,Molina Works,Scheduled,Morgan Brown,2025/07/19 0:00,MM
+caf1820c-45dd-4ee5-b10a-f54cd97c8d60,2025-07-03,ralph.nash@howard-enterprises.com,Ralph,Nash,Howard Enterprises,Scheduled,Morgan Brown,2025/07/17 0:00,MM
+2063d2ff-3409-4e89-a237-84d851250367,05/17/2025,gregory.ponce@goldentechnologies.com,Gregory,Ponce,Golden Technologies,Held,Casey Miller,18-May-25,ENT
+a4c5d703-dd13-43eb-a690-46e9d7270b93,13-Apr-25,brian.ramirez@apexstudios.com,Brian,Ramirez,Apex Studios,Held,Jordan Johnson,14/04/2025,MM
+18508e95-86a5-49a3-b89f-e8321e0a0e45,"Jun 26, 2025",joshua.harmon@smith-global.com,Joshua,Harmon,Smith Global,Scheduled,Jordan Johnson,15/07/2025,MM
+952836f1-1884-4b7c-991c-263cc14c0340,12 July 2025,matthew.spencer@johnson-consulting.com,Matthew,Spencer,Johnson Consulting,Scheduled,Taylor Lee,07-22-2025,MM
+a50ec2c3-6876-41c3-b78f-1e8188b59901,23/06/2025,eric.carney@titannetworks.com,Eric,Carney,Titan Networks,Held,Taylor Lee,10/07/2025,MM
+50a2ffe9-a5dd-4180-ba2d-b1a0de0de011,11-May-25,sierra.johnson@nimbussystems.com,Sierra,Johnson,Nimbus Systems,Held,Alex Smith,20250514,SMB
+7bad58fc-66dd-44d2-9939-e50c3ab8f46c,"Jul 04, 2025",jenny.arias@erickson-enterprises.com,Jenny,Arias,Erickson Enterprises,Scheduled,Taylor Lee,2025-07-22,MM
+094113bd-bdc8-40c9-9032-0c45053fced8,23 June 2025,jenna.hill@tanner-systems.com,Jenna,Hill,Tanner Systems,No-Show,Skyler Moore,24 June 2025,SMB
+6faff65e-d4aa-418b-ba12-018aa19901b1,"May 21, 2025",penny.bowman@goldensolutions.com,Penny,Bowman,Golden Solutions,No-Show,Casey Miller,2025/05/26 0:00,ENT
+a370dc0e-e0e1-4427-a4ff-e65a4702736f,11-May-25,patrick.moore@apexpartners.com,Patrick,Moore,Apex Partners,Held,Skyler Moore,16 May 2025,SMB
+a6d9b8c0-e627-46a3-a942-8908606451da,20250625,anna.wheeler@walkergroup.com,Anna,Wheeler,Walker Group,No-Show,Casey Miller,2025-06-28,ENT
+81f7cfb0-6c79-4ebe-a3a5-861d5e6d29f6,06/14/2025,tonya.hernandez@herreraenterprises.com,Tonya,Hernandez,Herrera Enterprises,No-Show,Jordan Johnson,2025-06-24,MM
+ebcb4dbf-6009-4b9d-b21b-4e73c8e23b62,08 July 2025,brittany.kim@forgeinnovations.com,Brittany,Kim,Forge Innovations,Scheduled,Morgan Brown,07-21-2025,MM
+c126f825-878f-48e5-8aa8-05b69931cdd4,12/07/2025,jessica.mcclain@masonsystems.com,Jessica,Mcclain,Mason Systems,Scheduled,Taylor Lee,07-27-2025,MM
+f7f9d36e-a3e4-46a7-ade8-effc17544b3e,06/28/2025,aaron.miles@morseanalytics.com,Aaron,Miles,Morse Analytics,Scheduled,Jordan Johnson,17 July 2025,MM
+b3890e0e-5757-4adf-8c0f-bd54f3bb82c4,2025/06/04 0:00,ashley.hall@redwoodsolutions.com,Ashley,Hall,Redwood Solutions,No-Show,Taylor Lee,06-21-2025,MM
+a29481c9-6429-4d6b-a755-cff061853344,21-Jun-25,matthew.leon@yang-capital.com,Matthew,Leon,Yang Capital,No-Show,Casey Miller,22/06/2025,ENT
+240afcdb-d7d2-4a7e-bc09-9c76fa1ecac3,15 April 2025,karla.ramos@velocitypartners.com,Karla,Ramos,Velocity Partners,Held,Skyler Moore,04-16-2025,SMB
+4a4624b2-00d0-401f-9e1c-d10c732eb135,2025-04-21,megan.young@lunarstudios.com,Megan,Young,Lunar Studios,Held,Quinn Thomas,23 April 2025,ENT
+f8d2bbdc-f025-4e6c-982e-261c1596907b,20250623,amber.guerrero@hernandez-technologies.com,Amber,Guerrero,Hernandez Technologies,No-Show,Skyler Moore,"Jun 27, 2025",SMB
+4f01f9bd-1673-4b44-9257-5a023616cbe8,01-Jul-25,john.anderson@james-shortservices.com,John,Anderson,James-Short Services,Scheduled,Taylor Lee,07/13/2025,MM
+69d60993-3a03-40fe-80bd-88ce8fc2664b,06/17/2025,sherry.marquez@hernandezventures.com,Sherry,Marquez,Hernandez Ventures,No-Show,Skyler Moore,2025/06/19 0:00,SMB
+ca53e042-6fe3-446b-a935-69a8ec6733fb,06-14-2025,brian.rivera@clements-murphystudios.com,Brian,Rivera,Clements-Murphy Studios,No-Show,Alex Smith,02/07/2025,MM
+2240dee7-64c7-400e-8eaf-179c11e2c5da,2025/04/16 0:00,angela.lin@summitlabs.com,Angela,Lin,Summit Labs,No-Show,Taylor Lee,2025-04-21,MM
+e8562e9d-0b0d-49ab-a53f-d8a3f9b4333d,"Jun 26, 2025",joseph.pena@ramirezpartners.com,Joseph,Pena,Ramirez Partners,No-Show,Jordan Johnson,2025-07-07,MM
+7e51f494-42ef-4c7f-849c-d4ceee2d9c72,07/04/2025,tamara.holden@gutierrez-hawkinsanalytics.com,Tamara,Holden,Gutierrez-Hawkins Analytics,Scheduled,Morgan Brown,2025/07/23 0:00,MM
+6a1eee3d-d5da-499f-897c-e02b116a64ec,2025-06-23,james.richardson@brady-dynamics.com,James,Richardson,Brady Dynamics,No-Show,Skyler Moore,24/06/2025,SMB
+bc19b850-263a-4fdf-bb5c-eec3ddf35e0b,13-Jun-25,thomas.anderson@stokesnetworks.com,Thomas,Anderson,Stokes Networks,No-Show,Alex Smith,20250701,MM
+f53c5a5e-1394-4f31-8037-62c226ae9813,25-Jun-25,diane.evans@phoenixcapital.com,Diane,Evans,Phoenix Capital,Scheduled,Morgan Brown,2025/07/16 0:00,MM
+88ffd107-63ca-41c5-b9a2-f060747a67f9,06/24/2025,ian.flores@thompsonholdings.com,Ian,Flores,Thompson Holdings,No-Show,Casey Miller,2025/06/25 0:00,ENT
+59e9a523-6895-46d1-ae60-6f4253ad1648,2025/04/20 0:00,jordan.henderson@horizondevices.com,Jordan,Henderson,Horizon Devices,Held,Casey Miller,26/04/2025,ENT
+88b7ebb5-2ce9-4307-b44a-2fa900397774,06/25/2025,karen.davis@reilly-rodriguezsolutions.com,Karen,Davis,Reilly-Rodriguez Solutions,No-Show,Jordan Johnson,04/07/2025,MM
+534533eb-9986-42d0-b039-158c4369fbc3,20/06/2025,adrian.key@flores-works.com,Adrian,Key,Flores Works,No-Show,Skyler Moore,"Jun 24, 2025",SMB
+c6d6f220-c070-4e86-85eb-099d369bb2ca,04/21/2025,justin.baker@silvernetworks.com,Justin,Baker,Silver Networks,Held,Skyler Moore,22-Apr-25,SMB
+b87763e2-b965-46a7-97d4-5c1b9bc06a7c,20250505,april.frost@goldenglobal.com,April,Frost,Golden Global,No-Show,Skyler Moore,2025/05/10 0:00,SMB
+6fac1390-f511-4bf5-8dd6-b8d5a083be97,01-Jul-25,catherine.thompson@guerrero-beckerworks.com,Catherine,Thompson,Guerrero-Becker Works,Scheduled,Taylor Lee,2025-07-16,MM
+59a42927-725b-4a80-bcf1-8e0de67f1f8c,"Jun 26, 2025",brian.johnson@wrightservices.com,Brian,Johnson,Wright Services,Scheduled,Jordan Johnson,2025/07/14 0:00,MM
+6be8caeb-9de2-437b-8af4-2d7ea4e8cd76,2025/07/08 0:00,william.macdonald@wilson-global.com,William,Macdonald,Wilson Global,Scheduled,Alex Smith,21 July 2025,MM
+4847915d-1ef8-4991-b698-a330bf298332,29 June 2025,paul.watson@shawconsulting.com,Paul,Watson,Shaw Consulting,No-Show,Morgan Brown,10-Jul-25,MM
+87e1ece3-98af-444a-8ab0-dff82b60bb64,2025/06/18 0:00,danielle.garcia@chavez-halltechnologies.com,Danielle,Garcia,Chavez-Hall Technologies,No-Show,Morgan Brown,08/07/2025,MM
+4048ca70-9cc9-418f-81f9-c36048e58f37,20250704,ashley.kennedy@ashley-group.com,Ashley,Kennedy,Ashley Group,No-Show,Skyler Moore,"Jul 05, 2025",SMB
+6fb1cbc6-bf0a-48c0-9845-d34d03105d95,17-May-25,debra.white@cascadedevices.com,Debra,White,Cascade Devices,Held,Skyler Moore,20250518,SMB
+035c7524-4691-41b7-9064-4103924b1fc3,10 July 2025,martin.castillo@torres-capital.com,Martin,Castillo,Torres Capital,Scheduled,Alex Smith,2025/07/28 0:00,MM
+50511c42-4046-46da-871d-c805937a3d43,07-02-2025,jonathan.smith@rich-hendersoninnovations.com,Jonathan,Smith,Rich-Henderson Innovations,No-Show,Jordan Johnson,"Jul 10, 2025",MM
+d3af7687-138a-492d-ac8a-4a0732e31ba8,06-08-2025,cathy.robinson@stellardevices.com,Cathy,Robinson,Stellar Devices,No-Show,Morgan Brown,23-Jun-25,MM
+ca3d8291-bafc-4db3-b94b-393915d04335,06/13/2025,teresa.perez@parkerservices.com,Teresa,Perez,Parker Services,No-Show,Quinn Thomas,06/16/2025,ENT
+5e264b34-a577-43b7-a8d2-6835e60f3049,20/06/2025,daniel.chan@green-edwardsenterprises.com,Daniel,Chan,Green-Edwards Enterprises,no show,Skyler Moore,24/06/2025,SMB
+d447866d-c9ae-43d6-8355-5bf0070db8d9,"May 11, 2025",natalie.bautista@blueinnovations.com,Natalie,Bautista,Blue Innovations,Held,Skyler Moore,2025/05/12 0:00,SMB
+782a0c9e-8963-4ffb-a7da-5eeb4593ceae,2025/06/22 0:00,cindy.silva@miller-devices.com,Cindy,Silva,Miller Devices,Scheduled,Morgan Brown,20250714,MM
+97ef2599-5923-47d5-a24e-fc614ed552f9,"Jul 08, 2025",brenda.green@taylornetworks.com,Brenda,Green,Taylor Networks,Scheduled,Taylor Lee,07-20-2025,MM
+1d51f987-ec05-4cb3-ada3-7a247910ab62,06/14/2025,joshua.vance@quantumpartners.com,Joshua,Vance,Quantum Partners,No-Show,Alex Smith,20250701,MM
+1cd43411-2fa8-489c-b83a-5c12a94bb40d,17/06/2025,kelly.thompson@brown-hernandezworks.com,Kelly,Thompson,Brown-Hernandez Works,No-Show,Morgan Brown,2025-07-02,MM
+c4265764-fed7-4697-a83f-3528b45ef20e,"Jul 07, 2025",gabrielle.todd@carpenter-solutions.com,Gabrielle,Todd,Carpenter Solutions,Scheduled,Morgan Brown,20250724,MM
+2aa49f09-404f-4f90-b230-cb9b1a962afd,2025/05/25 0:00,dustin.gallegos@phoenixstudios.com,Dustin,Gallegos,Phoenix Studios,Held,Casey Miller,05-27-2025,ENT
+ff26cada-f2ea-4331-9edf-c6045f05ddd2,2025-06-29,allison.hickman@quantumventures.com,Allison,Hickman,Quantum Ventures,Scheduled,Morgan Brown,"Jul 14, 2025",MM
+46a1f693-7a8d-4629-8063-1c50d82432e8,06/14/2025,charles.schultz@blueventures.com,Charles,Schultz,Blue Ventures,No-Show,Morgan Brown,06-29-2025,MM
+293f0d14-8d45-4c99-9a9f-eeb27ccd8bf0,04-Jul-25,roy.mays@evans-global.com,Roy,Mays,Evans Global,Scheduled,Taylor Lee,07-17-2025,MM
+dea807d5-3300-409a-a76a-27d9f7164cd5,"Jul 04, 2025",lisa.riley@arroyodynamics.com,Lisa,Riley,Arroyo Dynamics,Scheduled,Taylor Lee,07/16/2025,MM
+0dfec92d-e563-4ccf-89f2-70f42d93b9a8,"Jun 22, 2025",patrick.thornton@cascadecapital.com,Patrick,Thornton,Cascade Capital,Held,Taylor Lee,03/07/2025,MM
+931af23f-c5a2-4a96-b17c-ab3cdbaac56a,06-18-2025,angela.frost@taylor-ayalaconsulting.com,Angela,Frost,Taylor-Ayala Consulting,No-Show,Morgan Brown,27 June 2025,MM
+dde04cc5-deb8-40c9-995d-2dbf24700f75,10/07/2025,brandon.alvarez@blakeenterprises.com,Brandon,Alvarez,Blake Enterprises,Scheduled,Skyler Moore,2025/07/17 0:00,SMB
+f77a316e-c5ab-4bf3-8344-73085b31616f,07-Jul-25,michael.hensley@adams-innovations.com,Michael,Hensley,Adams Innovations,Scheduled,Morgan Brown,19/07/2025,MM
+1a65f0f5-c4c9-40e9-b4e2-ed0f9764db9f,20250531,nicole.parrish@cascadeconsulting.com,Nicole,Parrish,Cascade Consulting,No-Show,Quinn Thomas,2025/06/03 0:00,ENT
+25196c11-c8a1-4808-823a-e9513d7c8ea3,04-15-2025,sabrina.austin@goldendynamics.com,Sabrina,Austin,Golden Dynamics,No-Show,Skyler Moore,19-Apr-25,SMB
+3349b04c-fcfc-483b-95c3-bdf93f774d46,30/06/2025,emma.reed@pioneerconsulting.com,Emma,Reed,Pioneer Consulting,Scheduled,Taylor Lee,07-19-2025,MM
+200853c1-6d4a-4117-a6e3-a21ceb5ce847,"Jul 05, 2025",brittany.farmer@silverworks.com,Brittany,Farmer,Silver Works,Scheduled,Alex Smith,25 July 2025,SMB
+c50a1902-43c0-42d8-a859-d25f172240c2,05/05/2025,meghan.cisneros@nimbusservices.com,Meghan,Cisneros,Nimbus Services,No-Show,Jordan Johnson,20250506,MM
+15c2dde3-9442-4d8c-ac0b-1d59626f1199,01/07/2025,casey.gray@moore-networks.com,Casey,Gray,Moore Networks,Scheduled,Alex Smith,07/18/2025,MM
+dd318268-40c6-4abd-a03d-618cf947f85c,12/07/2025,robert.rivera@pereznetworks.com,Robert,Rivera,Perez Networks,Scheduled,Taylor Lee,"Jul 29, 2025",MM
+951969a6-c9ec-4172-b13f-ba6436daebb0,20250528,aaron.wise@pioneerstudios.com,Aaron,Wise,Pioneer Studios,No-Show,Quinn Thomas,06/02/2025,ENT
+ab1cc19f-e261-4d79-be2e-f6dc509e397d,20250711,thomas.arnold@johnson-innovations.com,Thomas,Arnold,Johnson Innovations,Scheduled,Casey Miller,13 July 2025,ENT
+90ff2976-87a1-4e7f-9919-0298afd545cd,07-01-2025,david.smith@moreno-gutierrezsystems.com,David,Smith,Moreno-Gutierrez Systems,Scheduled,Taylor Lee,2025-07-22,MM
+329e5589-0e3d-46e7-9e5a-f3941d47d147,05/07/2025,brandon.nash@johnsonsystems.com,Brandon,Nash,Johnson Systems,no show,Casey Miller,08/07/2025,ENT
+2f6b3779-2362-4da9-94d5-e49cc3d32c7d,05/05/2025,devon.flores@lunarglobal.com,Devon,Flores,Lunar Global,Canceled,Skyler Moore,2025-05-09,SMB
+d632d132-b0ea-41f4-9a9d-36c6887fab93,12 April 2025,colton.martinez@apexdevices.com,Colton,Martinez,Apex Devices,Held,Jordan Johnson,04/16/2025,MM
+6f388e98-81a9-4624-aee5-6b057057d36a,2025-07-06,christian.sosa@vang-solutions.com,Christian,Sosa,Vang Solutions,Scheduled,Jordan Johnson,21 July 2025,MM
+fc96d993-1581-41ea-b7d0-0668ff2a63df,2025/06/18 0:00,sylvia.underwood@drake-wolfedynamics.com,Sylvia,Underwood,Drake-Wolfe Dynamics,No-Show,Skyler Moore,21-Jun-25,SMB
+9ae8234d-7124-4eef-abb8-2a74655524ab,"Jun 16, 2025",rebecca.hicks@pioneersolutions.com,Rebecca,Hicks,Pioneer Solutions,No-Show,Jordan Johnson,06/30/2025,MM
+68fc61c0-66d8-4110-bf6b-2965405495cf,04-27-2025,lindsay.martinez@titanservices.com,Lindsay,Martinez,Titan Services,Held,Riley Davis,04/30/2025,SMB
+bd8075cf-1702-4836-af8e-25bcaa705b8c,26 May 2025,austin.osborne@redwoodlabs.com,Austin,Osborne,Redwood Labs,No-Show,Morgan Brown,27 May 2025,MM
+e32d08dc-9483-4c9c-9f9e-bd63ac7274c3,03/06/2025,philip.cannon@horizonglobal.com,Philip,Cannon,Horizon Global,Held,Morgan Brown,"Jun 21, 2025",MM
+fb103709-daab-4136-bd84-b549a00b6ff9,24 June 2025,jonathan.medina@wagner-capital.com,Jonathan,Medina,Wagner Capital,no show,Jordan Johnson,10/07/2025,MM
+655602f2-635e-4989-9711-8dafc850d829,08-Jul-25,timothy.romero@vertexdevices.com,Timothy,Romero,Vertex Devices,Scheduled,Jordan Johnson,07/16/2025,MM
+21c1d4b2-b742-4964-b24e-66a79eef5649,01 July 2025,kenneth.davis@miller-mccallconsulting.com,Kenneth,Davis,Miller-Mccall Consulting,Scheduled,Morgan Brown,"Jul 19, 2025",MM
+c90a2d30-d0ce-4fbe-915d-b49d4f698d36,20250708,tyler.rivera@herrera-ventures.com,Tyler,Rivera,Herrera Ventures,Scheduled,Casey Miller,14/07/2025,ENT
+3692ca4b-f9ed-4d46-ba50-813dacb2d121,05 May 2025,cassandra.gaines@mosaicnetworks.com,Cassandra,Gaines,Mosaic Networks,No-Show,Jordan Johnson,07 May 2025,MM
+c7b18fb5-697c-4a95-b9d0-807923aebc29,20250512,mark.brown@vertexnetworks.com,Mark,Brown,Vertex Networks,no show,Riley Davis,05/15/2025,SMB
+49332d26-15f6-45a7-b80e-a7f1f8c34df7,2025/06/27 0:00,kimberly.wilson@millerconsulting.com,Kimberly,Wilson,Miller Consulting,No-Show,Morgan Brown,10-Jul-25,MM
+69d8db09-8fb0-424c-9d43-9ee00d6745d7,2025-07-12,jose.mitchell@williams-lisystems.com,Jose,Mitchell,Williams-Li Systems,Scheduled,Alex Smith,2025-07-28,MM
+7f961254-5618-42a1-b8f1-7d6868a6e4b6,06-19-2025,robin.russell@barber-fischerlabs.com,Robin,Russell,Barber-Fischer Labs,No-Show,Casey Miller,"Jun 21, 2025",ENT
+b5555962-bdb3-461b-9643-028ad396c15e,13 May 2025,shane.henderson@silversystems.com,Shane,Henderson,Silver Systems,No-Show,Riley Davis,05-15-2025,SMB
+cba1d90e-ca1b-47a8-9fc5-100c66778e59,16-Apr-25,kathleen.moran@titandynamics.com,Kathleen,Moran,Titan Dynamics,Held,Riley Davis,20250420,SMB
+cd58ed58-dbe5-40e2-822b-315ec8977228,04/15/2025,whitney.peters@redwoodsystems.com,Whitney,Peters,Redwood Systems,Cancelled,Riley Davis,2025-04-20,SMB
+d153ac7e-8617-465c-8945-ab3d092865cb,2025/07/09 0:00,philip.vance@saunders-partners.com,Philip,Vance,Saunders Partners,Scheduled,Jordan Johnson,20250725,MM
+43479acc-fa61-4871-afa8-dcfa9f79770c,23-Jun-25,megan.orr@stellarnetworks.com,Megan,Orr,Stellar Networks,Held,Alex Smith,07/11/2025,MM
+122b62ca-db4f-4d2a-8e72-e9da79ba5831,17-Jun-25,richard.henson@blueglobal.com,Richard,Henson,Blue Global,Held,Taylor Lee,2025/07/03 0:00,MM
+39612242-619c-40b0-92f1-aaf1516d8d68,06/30/2025,christopher.baker@williams-enterprises.com,Christopher,Baker,Williams Enterprises,Scheduled,Alex Smith,2025/07/20 0:00,MM
+4edf6db9-82e5-430d-a112-86a8a2e138cc,11/07/2025,michael.ballard@cooper-devices.com,Michael,Ballard,Cooper Devices,Scheduled,Jordan Johnson,2025-07-28,MM
+dfe3c5d1-4568-461b-8bca-c34b9549d381,20250528,tamara.davis@apexsolutions.com,Tamara,Davis,Apex Solutions,Canceled,Quinn Thomas,02/06/2025,ENT
+187aca85-ece3-4da1-9589-1e94a34f6fad,2025-04-13,christine.wright@nimbusworks.com,Christine,Wright,Nimbus Works,Held,Morgan Brown,2025/04/16 0:00,MM
+5b80238d-39fd-4049-8f63-bfc37470d637,14/06/2025,joyce.bowen@lunarsystems.com,Joyce,Bowen,Lunar Systems,No-Show,Morgan Brown,20250627,MM
+fb2c10ff-479b-45b2-a9a5-3d8ee22c0611,"Jun 07, 2025",cynthia.vang@cascadeworks.com,Cynthia,Vang,Cascade Works,Held,Morgan Brown,22-Jun-25,MM
+4ca0be7e-3e7d-42fd-93b5-e7646e8efabe,12-Jun-25,elizabeth.morton@anderson-systems.com,Elizabeth,Morton,Anderson Systems,No-Show,Morgan Brown,"Jun 25, 2025",MM
+c211bd47-81bd-4f95-93f1-f338474a5a80,06/18/2025,tammy.mcdaniel@mendezsystems.com,Tammy,Mcdaniel,Mendez Systems,no show,Casey Miller,"Jun 26, 2025",ENT
+93f599ba-eeb5-4cd4-ae30-59de6251c1ae,2025-06-30,paul.lewis@titanventures.com,Paul,Lewis,Titan Ventures,Held,Taylor Lee,11/07/2025,MM
+4966ddd4-0659-4a18-8981-72c84f6e795d,06/30/2025,jessica.nicholson@moran-coxcapital.com,Jessica,Nicholson,Moran-Cox Capital,No-Show,Taylor Lee,2025/07/08 0:00,MM
+9b192603-b790-4c74-bdef-61fe3000a4f5,06-30-2025,kevin.meyer@williamsworks.com,Kevin,Meyer,Williams Works,Scheduled,Taylor Lee,2025-07-14,MM
+137c6407-d231-4e95-a9e4-8647c1bd5a88,07-04-2025,lynn.hernandez@jones-bradleyinnovations.com,Lynn,Hernandez,Jones-Bradley Innovations,No-Show,Casey Miller,2025/07/05 0:00,ENT
+42c3bb1b-6f10-4624-9864-559d4aeeecd6,15/04/2025,matthew.mcmillan@titanholdings.com,Matthew,Mcmillan,Titan Holdings,Held,Jordan Johnson,20250416,MM
+bd295047-d871-4f69-b20b-36af4651bae7,"Jul 09, 2025",carmen.stephens@evans-capital.com,Carmen,Stephens,Evans Capital,Scheduled,Morgan Brown,23 July 2025,MM
+e769f309-3041-4951-8373-ddd0c9e9d81e,20250626,christian.king@trandynamics.com,Christian,King,Tran Dynamics,Scheduled,Morgan Brown,2025/07/12 0:00,MM
+194f07b9-df25-4495-bb28-62258928efb3,2025-07-05,shannon.rivera@blueholdings.com,Shannon,Rivera,Blue Holdings,Scheduled,Jordan Johnson,18/07/2025,MM
+eb5d7658-a7a4-402a-8260-18a6f5086734,2025/05/07 0:00,victoria.garcia@phoenixconsulting.com,Victoria,Garcia,Phoenix Consulting,No-Show,Riley Davis,10 May 2025,SMB
+2cb76246-93ed-4004-ba51-20de7e306575,07 July 2025,ryan.rosales@quantumservices.com,Ryan,Rosales,Quantum Services,Scheduled,Jordan Johnson,"Jul 17, 2025",MM
+1b7d432d-3787-489c-9d30-7a6a7b3c862c,06/28/2025,lori.guerrero@phoenixholdings.com,Lori,Guerrero,Phoenix Holdings,Scheduled,Alex Smith,07-14-2025,MM
+7415d079-14e8-43b8-90b3-73a0a53ef659,20250429,dana.chapman@cascadetechnologies.com,Dana,Chapman,Cascade Technologies,Held,Riley Davis,2025/05/02 0:00,SMB
+0c1141fa-e4d4-4543-914d-ef1ce2abf998,22-Apr-25,tracy.montoya@quantumconsulting.com,Tracy,Montoya,Quantum Consulting,Held,Quinn Thomas,23/04/2025,ENT
+2a06a024-1f88-4d87-b51c-a38646520aba,2025-06-25,linda.ortiz@wilsonholdings.com,Linda,Ortiz,Wilson Holdings,no show,Alex Smith,20250707,ENT
+6868a11b-3de1-4558-acb7-da223aa90efa,21-May-25,lisa.hunter@redwoodenterprises.com,Lisa,Hunter,Redwood Enterprises,No-Show,Morgan Brown,20250525,MM
+e43313cc-cf4a-4104-b53f-2d33b7f5c8ec,09 July 2025,alex.jefferson@floresnetworks.com,Alex,Jefferson,Flores Networks,Scheduled,Jordan Johnson,2025/07/27 0:00,MM
+a1a68d36-f13b-439b-8158-65cbe738e429,06/24/2025,kristina.robinson@murray-partners.com,Kristina,Robinson,Murray Partners,no show,Alex Smith,11 July 2025,MM
+1ba55147-b1d6-4a28-8a62-fca10e9044b1,2025/04/16 0:00,victor.baker@apexdynamics.com,Victor,Baker,Apex Dynamics,no show,Riley Davis,04-21-2025,SMB
+9eb76287-67e3-4edd-a1ad-1030fdfbf116,03-Jul-25,brian.ayala@cruzconsulting.com,Brian,Ayala,Cruz Consulting,Scheduled,Taylor Lee,2025/07/17 0:00,MM
+4f591837-1f24-4c27-8e09-e6a9f7c0e46d,05/03/2025,jack.white@apexnetworks.com,Jack,White,Apex Networks,Held,Quinn Thomas,"May 08, 2025",ENT
+1d1fa25a-e9bf-4a8b-adc8-d9d0a54da161,06-24-2025,keith.jennings@stellaranalytics.com,Keith,Jennings,Stellar Analytics,Held,Morgan Brown,07/05/2025,MM
+5e74095e-c50b-4c65-9eb0-472449dd64cb,2025/06/21 0:00,bradley.gonzales@abbottinnovations.com,Bradley,Gonzales,Abbott Innovations,No-Show,Casey Miller,06-28-2025,ENT
+ce40d1e0-89a1-46a1-ad72-dffee73be9c8,2025/05/28 0:00,jeffrey.chandler@bluestudios.com,Jeffrey,Chandler,Blue Studios,Held,Quinn Thomas,2025-05-25,ENT
+d92a4afb-5b15-471c-9f18-778c2ffc5799,19/04/2025,jasmin.alvarado@vertexconsulting.com,Jasmin,Alvarado,Vertex Consulting,No-Show,Riley Davis,2025/04/22 0:00,SMB
+91763161-2120-40f4-b584-a1761e254624,20250525,hannah.luna@vertexpartners.com,Hannah,Luna,Vertex Partners,No-Show,Alex Smith,2025-05-28,MM
+c013b7dd-c605-4bd1-9e26-cf7efe50d5b2,07-11-2025,alexandra.meyer@watson-solutions.com,Alexandra,Meyer,Watson Solutions,Scheduled,Morgan Brown,24/07/2025,MM
+6a2a565a-8236-4d31-aec3-bfe7bd717560,06/25/2025,stephanie.williams@nimbusventures.com,Stephanie,Williams,Nimbus Ventures,Held,Morgan Brown,07/10/2025,MM
+84ce4ac6-91de-489c-911c-a2f5ffc5028f,27-Jun-25,michael.ochoa@castro-harveygroup.com,Michael,Ochoa,Castro-Harvey Group,Scheduled,Alex Smith,07-13-2025,MM
+139a06f3-034b-4dde-b4e9-6dad51ef2b2c,04-15-2025,robert.harrison@summitdevices.com,Robert,Harrison,Summit Devices,no show,Morgan Brown,"Apr 17, 2025",MM
+231fc925-6775-4003-b8ff-67c36e775f7c,"Jul 02, 2025",angie.aguilar@tanner-technologies.com,Angie,Aguilar,Tanner Technologies,Scheduled,Jordan Johnson,2025/07/22 0:00,MM
+23ebb3ce-6398-4159-94aa-a4b36b48b7df,01 July 2025,elizabeth.perkins@stellardynamics.com,Elizabeth,Perkins,Stellar Dynamics,Scheduled,Jordan Johnson,17/07/2025,MM
+52e99868-814a-4607-98f4-f0be6b5ee468,02 July 2025,shelia.wallace@pioneerdevices.com,Shelia,Wallace,Pioneer Devices,Held,Jordan Johnson,20 July 2025,MM
+026f3337-af2d-424d-a7af-5ec2b6d9180e,20250423,paul.castaneda@apexenterprises.com,Paul,Castaneda,Apex Enterprises,No-Show,Casey Miller,2025-04-24,ENT
+dec20659-9f93-45ff-b2f6-9038e6d4b7d3,20250414,cynthia.morris@quantumdevices.com,Cynthia,Morris,Quantum Devices,Held,Alex Smith,20250417,MM
+fa6704b7-c99d-47ae-a16c-67c4dbdd0e90,"Jun 24, 2025",thomas.burke@nelson-cruzworks.com,Thomas,Burke,Nelson-Cruz Works,No-Show,Jordan Johnson,"Jul 08, 2025",MM
+bb2e4962-a04b-44e7-8fa6-0da8f3d0d7af,2025-04-30,margaret.coleman@goldenservices.com,Margaret,Coleman,Golden Services,Held,Jordan Johnson,2025/05/04 0:00,MM
+3bbb72f5-8425-4c75-a995-03466292c2ef,06/17/2025,parker.cain@goldenworks.com,Parker,Cain,Golden Works,Held,Taylor Lee,20250630,MM
+0d915a16-a8e5-4722-a86b-85eb32d709b9,29-Jun-25,michael.elliott@silveranalytics.com,Michael,Elliott,Silver Analytics,Scheduled,Alex Smith,07-18-2025,MM
+de74af5f-02d2-4478-b5db-afc7bbb989c3,15/06/2025,anna.preston@martinezstudios.com,Anna,Preston,Martinez Studios,No-Show,Riley Davis,"Jun 21, 2025",SMB
+13cb1751-93e7-4f5c-b861-ac0867503e1f,05 July 2025,holly.wood@silverglobal.com,Holly,Wood,Silver Global,Scheduled,Taylor Lee,23/07/2025,MM
+a4759f98-6532-4373-9d25-7d3fa5cef864,09/07/2025,mercedes.rubio@welch-thompsonsystems.com,Mercedes,Rubio,Welch-Thompson Systems,Scheduled,Jordan Johnson,07/26/2025,MM
+2125c406-cee2-4b18-90c5-8e845cbcbff3,20250513,jeffrey.mendez@lunartechnologies.com,Jeffrey,Mendez,Lunar Technologies,Held,Taylor Lee,"May 18, 2025",MM
+bd908eb5-8e4d-4451-acfd-322d9fa515dc,20250514,glen.wood@novaventures.com,Glen,Wood,Nova Ventures,Held,Riley Davis,"May 20, 2025",SMB
+97a6235b-9ddc-4fd2-b2cf-e8aed68b6dd6,10 July 2025,amanda.cunningham@anderson-reyesstudios.com,Amanda,Cunningham,Anderson-Reyes Studios,Scheduled,Alex Smith,2025/07/28 0:00,MM
+891bd5d4-043f-4fa3-bda6-54c9cd1cdde3,06/23/2025,christopher.alexander@howard-partners.com,Christopher,Alexander,Howard Partners,No-Show,Jordan Johnson,07-07-2025,MM
+ab51b5a4-6039-4d7f-9b60-1e4f722e89e4,20250512,brenda.thornton@summittechnologies.com,Brenda,Thornton,Summit Technologies,Held,Alex Smith,2025/05/17 0:00,MM
+4648be94-d56d-46d6-abf8-bc736aa230ec,07/01/2025,tommy.walter@summitenterprises.com,Tommy,Walter,Summit Enterprises,Scheduled,Jordan Johnson,07/17/2025,MM
+ec3bf865-11b3-4f36-b4ed-3daf1ded859e,2025-07-11,dylan.jackson@mckinney-systems.com,Dylan,Jackson,Mckinney Systems,Scheduled,Alex Smith,07-27-2025,MM
+ddf8229b-b83a-4a1c-b1dd-4f5fff4c48ee,2025-06-18,christopher.guerra@lunarsolutions.com,Christopher,Guerra,Lunar Solutions,Held,Jordan Johnson,2025-07-04,MM
+61292e4e-eedd-48f3-814b-f3363aac09d9,2025-06-07,tracy.burke@lunarcapital.com,Tracy,Burke,Lunar Capital,Held,Alex Smith,2025-06-25,MM
+a232e70b-155a-43f7-9471-eb170480dd41,14/06/2025,timothy.duncan@phoenixinnovations.com,Timothy,Duncan,Phoenix Innovations,Held,Taylor Lee,06/30/2025,MM
+bf421c08-3fcc-48de-b80d-a0bfaf670bb8,16 April 2025,jonathan.lawrence@vertexgroup.com,Jonathan,Lawrence,Vertex Group,No-Show,Alex Smith,"Apr 17, 2025",ENT
+ee9a2fd4-d2cd-433e-bfb9-aa6f1b61f59f,06/28/2025,jasmine.beltran@forgelabs.com,Jasmine,Beltran,Forge Labs,Scheduled,Jordan Johnson,17 July 2025,MM
+ab7cad7f-18a3-43d4-9c77-91705ec75448,2025/07/08 0:00,jesse.baker@mcpherson-capital.com,Jesse,Baker,Mcpherson Capital,Scheduled,Morgan Brown,25-Jul-25,MM
+300c2fbd-969c-478f-b00c-53ea378d82e7,24 June 2025,robert.gomez@edwards-ventures.com,Robert,Gomez,Edwards Ventures,no show,Alex Smith,06 July 2025,MM
+0053183d-0701-4e36-bc5c-6078f2afd67c,20250707,nancy.gonzalez@lewisservices.com,Nancy,Gonzalez,Lewis Services,Scheduled,Taylor Lee,07/23/2025,MM
+1d15653e-a43d-4718-b316-69f0e165153e,07/05/2025,ian.reese@christian-boothpartners.com,Ian,Reese,Christian-Booth Partners,Scheduled,Taylor Lee,18 July 2025,ENT
+534184c3-73c2-4939-a593-ca2de3d4558c,25-Jun-25,erin.edwards@cascadeglobal.com,Erin,Edwards,Cascade Global,Held,Jordan Johnson,07-07-2025,MM
+1b5eef93-7b7a-4a01-909b-b668df6dd3f9,2025-07-01,william.jones@redwooddevices.com,William,Jones,Redwood Devices,Scheduled,Morgan Brown,21-Jul-25,MM
+9d5eac0c-973e-4006-9d82-4e1112e6eea7,06-15-2025,lauren.daniels@cascadestudios.com,Lauren,Daniels,Cascade Studios,Held,Taylor Lee,20250625,ENT
+03edc609-bfc0-4a5a-ba94-4fa17c55eda0,"Jun 16, 2025",tiffany.wells@hernandez-dawsonservices.com,Tiffany,Wells,Hernandez-Dawson Services,No-Show,Quinn Thomas,19/06/2025,ENT
+54940253-7256-418d-87da-2723a13a4fbe,2025-06-26,matthew.rowe@morris-systems.com,Matthew,Rowe,Morris Systems,No-Show,Alex Smith,20250707,MM
+5029b4f3-a502-4ec2-bfcb-be0e937c7be0,13/05/2025,heather.bolton@mosaicpartners.com,Heather,Bolton,Mosaic Partners,Held,Casey Miller,"May 15, 2025",ENT
+baaef697-7a94-4ca5-a990-241948722808,25/06/2025,jeremy.mccarty@bauernetworks.com,Jeremy,Mccarty,Bauer Networks,No-Show,Taylor Lee,06 July 2025,MM
+1308b328-809a-410f-b2db-3de7e655ad24,06/28/2025,vanessa.howard@horizonanalytics.com,Vanessa,Howard,Horizon Analytics,No-Show,Morgan Brown,08-Jul-25,MM
+0e2ed16e-a1b2-45c1-855b-b361558a827d,05-Jul-25,michael.evans@nimbusnetworks.com,Michael,Evans,Nimbus Networks,Scheduled,Taylor Lee,"Jul 17, 2025",MM
+704e9279-b46a-4a9d-a27b-c105df7dfd4b,04/13/2025,courtney.gonzalez@quantumworks.com,Courtney,Gonzalez,Quantum Works,Held,Casey Miller,19 April 2025,ENT
+0d3d425f-a122-4bff-a22c-54a834473978,2025/05/25 0:00,richard.rodriguez@forgeworks.com,Richard,Rodriguez,Forge Works,Held,Quinn Thomas,20250529,ENT
+7e7913f0-aa98-402d-8d89-7d207897d520,2025/04/13 0:00,shannon.jones@goldenstudios.com,Shannon,Jones,Golden Studios,Held,Casey Miller,"Apr 17, 2025",ENT
+a33340b9-36da-4f7b-9128-19d01a25d135,07/06/2025,bobby.guerrero@redwoodventures.com,Bobby,Guerrero,Redwood Ventures,Scheduled,Morgan Brown,20250714,MM
+56bf1732-ec6a-4789-aae0-c1ff08bd16c8,20250701,jamie.pearson@haynes-watsonstudios.com,Jamie,Pearson,Haynes-Watson Studios,no show,Riley Davis,06/07/2025,SMB
+fa55a8a6-f17d-4aec-a5d7-d942d378d9a6,20250526,sherri.baker@redwoodservices.com,Sherri,Baker,Redwood Services,Held,Casey Miller,28 May 2025,ENT
+f028b7ac-9636-4cbd-9914-b8c32735ca8a,23 June 2025,mike.allen@stellarservices.com,Mike,Allen,Stellar Services,Held,Taylor Lee,2025/07/04 0:00,MM
+4b9ac7c5-0d68-43a8-af3b-e59ce59cb41a,05/03/2025,lisa.hensley@titancapital.com,Lisa,Hensley,Titan Capital,Held,Jordan Johnson,20250505,MM
+b1557ba6-beec-4861-91b6-3fcf60d9439a,2025/07/07 0:00,katie.mcneil@forgedevices.com,Katie,Mcneil,Forge Devices,Scheduled,Morgan Brown,2025-07-26,ENT
+03ee6bba-9d5c-4960-bae5-7f939010cb45,20250622,andrea.hubbard@lunardynamics.com,Andrea,Hubbard,Lunar Dynamics,Held,Taylor Lee,06-Jul-25,MM
+6f21d286-ad9a-4be2-a430-47c434ce7254,07/07/2025,bryan.gomez@mosaicanalytics.com,Bryan,Gomez,Mosaic Analytics,Scheduled,Taylor Lee,24 July 2025,MM
+a84a75ee-f662-4c5d-a390-e3b8a56f4b23,2025-07-10,richard.hayes@obrien-services.com,Richard,Hayes,Obrien Services,Scheduled,Alex Smith,25-Jul-25,MM
+b30d45bc-ddae-401f-a2ee-6def414e9fdc,04/16/2025,laura.roberts@lunardevices.com,Laura,Roberts,Lunar Devices,Held,Alex Smith,18-Apr-25,MM
+82431aa5-c2d1-4615-ae0d-24823d4b9323,16-Jun-25,john.whitehead@apexservices.com,John,Whitehead,Apex Services,Held,Morgan Brown,01-Jul-25,MM
+79fce933-d1b4-4eeb-bbba-a63d993e4542,11/07/2025,richard.roth@phelps-global.com,Richard,Roth,Phelps Global,Scheduled,Morgan Brown,26 July 2025,MM
+b4ab957a-c00c-4537-a70e-d41156055d0d,20250705,sara.fuller@goldenventures.com,Sara,Fuller,Golden Ventures,Scheduled,Morgan Brown,2025/07/15 0:00,MM
+fad5f1f9-3654-4448-9c6a-040fb387d0cf,06-27-2025,jeffery.berry@reeves-networks.com,Jeffery,Berry,Reeves Networks,Scheduled,Morgan Brown,2025/07/13 0:00,MM
+c5fed7d3-f0dd-48c2-afd6-a0dc296deda3,"Jun 01, 2025",lisa.archer@forgestudios.com,Lisa,Archer,Forge Studios,No-Show,Taylor Lee,13/06/2025,MM
+18c7e4a4-5583-4174-8351-144cee6435bb,"Jul 03, 2025",elizabeth.olsen@shaffer-partners.com,Elizabeth,Olsen,Shaffer Partners,No-Show,Casey Miller,07/04/2025,ENT
+32aa91c4-a424-43b1-bf42-bebb0281bb17,28/04/2025,jessica.callahan@stellarglobal.com,Jessica,Callahan,Stellar Global,Held,Casey Miller,05/04/2025,ENT
+f7085551-e9ca-4ab1-9f6b-77ed6f17f397,27 June 2025,travis.smith@hernandez-innovations.com,Travis,Smith,Hernandez Innovations,No-Show,Morgan Brown,2025-07-08,MM
+be7ffa9d-1739-4baa-a37e-8756752e9648,06/10/2025,kevin.oconnor@cascadenetworks.com,Kevin,Oconnor,Cascade Networks,No-Show,Alex Smith,26 June 2025,MM
+4f36e9ec-8854-4295-a84f-1b572b2a3cd4,01/07/2025,julia.smith@west-wilsonglobal.com,Julia,Smith,West-Wilson Global,Scheduled,Alex Smith,07/12/2025,MM
+2dcba4ce-6aa3-4cb3-b6a9-8c6265e9b96d,20250421,joanna.pacheco@nimbusholdings.com,Joanna,Pacheco,Nimbus Holdings,Held,Taylor Lee,23 April 2025,MM
+ea504908-e34c-4944-b4ca-f76dd4e0f2cf,11 June 2025,matthew.foster@apexcapital.com,Matthew,Foster,Apex Capital,No-Show,Alex Smith,2025/06/28 0:00,MM
+028c5812-103f-4c34-870a-1d76c7f20142,26-Apr-25,anthony.rodriguez@titanconsulting.com,Anthony,Rodriguez,Titan Consulting,Held,Riley Davis,04/28/2025,SMB
+8a1d8d8f-14ef-4e3f-9497-925f4b2c7ec7,03/05/2025,richard.aguirre@summitpartners.com,Richard,Aguirre,Summit Partners,Held,Casey Miller,20250505,ENT
+71e89d5c-6b44-4f58-9c72-b1245c9cbfeb,"Apr 12, 2025",donna.landry@apexinnovations.com,Donna,Landry,Apex Innovations,Held,Casey Miller,04/13/2025,ENT
+f1f6eadd-c23b-4c23-9a29-c2152f21e5bd,06-23-2025,joseph.mullen@johnstondynamics.com,Joseph,Mullen,Johnston Dynamics,No-Show,Morgan Brown,07-04-2025,MM
+8290bdce-428b-4877-a3b3-85ff57c25044,05-19-2025,megan.nelson@summitinnovations.com,Megan,Nelson,Summit Innovations,Held,Alex Smith,"May 23, 2025",ENT
+e9d28668-3d6c-4d16-b447-dc1a8f5078a5,20250704,renee.miller@glover-chanconsulting.com,Renee,Miller,Glover-Chan Consulting,Scheduled,Alex Smith,2025-07-17,MM
+fa6704b7-c99d-47ae-a16c-67c4dbdd0e90,"Jun 24, 2025",thomas.burke@nelson-cruzworks.com,Thomas,Burke,Nelson-Cruz Works,No-Show,Jordan Johnson,"Jul 08, 2025",MM
+98767e5f-1784-4e53-b93f-ff847b5c560b,20250504,stephanie.ross@horizonservices.com,Stephanie,Ross,Horizon Services,No-Show,Quinn Thomas,"May 07, 2025",ENT
+dd7da025-7c75-46c9-afc9-73cbf2c288cc,20250705,sean.horne@garciaanalytics.com,Sean,Horne,Garcia Analytics,No-Show,Casey Miller,07/10/2025,ENT
+a234f099-d133-4c4b-a422-ff2b6f2b8a11,10-Jul-25,michelle.parsons@blackwell-technologies.com,Michelle,Parsons,Blackwell Technologies,Scheduled,Casey Miller,28/07/2025,ENT
+7aafbbfc-36a2-40b3-8c13-e2b0d0524243,2025-04-30,michael.wang@silverventures.com,Michael,Wang,Silver Ventures,No-Show,Quinn Thomas,"May 06, 2025",ENT
+86709ce2-55c4-4631-8a57-d1accdb87432,08-Jul-25,michelle.olson@huntenterprises.com,Michelle,Olson,Hunt Enterprises,Scheduled,Taylor Lee,"Jul 15, 2025",MM
+13bf5f4c-1432-44d4-a22c-9f7f2ee0aaaa,06/04/2025,james.parks@velocityholdings.com,James,Parks,Velocity Holdings,Held,Alex Smith,16 June 2025,MM
+5cc81eb5-5ed7-4068-81ee-bfcfaf3bbea9,2025-07-04,dennis.barry@brown-partners.com,Dennis,Barry,Brown Partners,Scheduled,Taylor Lee,20/07/2025,MM
+bec5bfd2-1c6d-4f50-8b8d-df54c8775ccd,"Jul 11, 2025",paula.york@smith-nobleglobal.com,Paula,York,Smith-Noble Global,Scheduled,Casey Miller,15/07/2025,ENT
+549d8b65-64b2-488c-ad5b-ce3f52113e35,06-18-2025,patricia.le@goldenenterprises.com,Patricia,Le,Golden Enterprises,Held,Alex Smith,20250702,MM
+e5288453-9329-4fef-a42f-eb1ed379e620,20250709,raymond.taylor@lopezcapital.com,Raymond,Taylor,Lopez Capital,Scheduled,Morgan Brown,2025-07-22,MM
+a6ec5333-c222-41da-a0ec-06864bdef844,2025/07/12 0:00,jerry.robertson@smithgroup.com,Jerry,Robertson,Smith Group,Scheduled,Alex Smith,07/26/2025,MM
+fcadc1a6-81cf-4bd7-8527-eba0b82169b1,"Jul 10, 2025",ashley.aguilar@williamsholdings.com,Ashley,Aguilar,Williams Holdings,Scheduled,Alex Smith,30/07/2025,MM
+5c5e1f69-b3c1-4e9a-b0a3-be6dffafaaae,20250419,alex.hernandez@summitcapital.com,Alex,Hernandez,Summit Capital,Held,Casey Miller,21/04/2025,ENT
+361b726a-9bcc-42a1-af81-f6496b078ceb,19-May-25,marie.moody@titaninnovations.com,Marie,Moody,Titan Innovations,Held,Morgan Brown,05/21/2025,MM
+7a7e929a-d960-46dd-bbbf-5a68bdb9e127,04-Jul-25,jason.lee@sanders-enterprises.com,Jason,Lee,Sanders Enterprises,No-Show,Casey Miller,07-05-2025,ENT
+6b988cd6-8196-40d7-927a-670e6f421b87,25 May 2025,adam.vaughan@apexholdings.com,Adam,Vaughan,Apex Holdings,Held,Alex Smith,"May 28, 2025",MM
+52b3b8ad-9d68-4ee4-9c6b-22506d8fe918,05-May-25,carla.gray@novagroup.com,Carla,Gray,Nova Group,Held,Morgan Brown,"May 09, 2025",MM
+9d19677c-28ce-4d60-8970-6840b3f6550a,20/06/2025,thomas.jacobson@griffith-labs.com,Thomas,Jacobson,Griffith Labs,No-Show,Quinn Thomas,22/06/2025,ENT
+8a7e45d6-f1c2-49db-9b15-06367d01f0a7,05/31/2025,william.barrett@horizonenterprises.com,William,Barrett,Horizon Enterprises,Held,Riley Davis,2025/06/02 0:00,SMB
+e45d6389-6bfe-48df-b4e6-2b62435eab01,30-Apr-25,joyce.solis@goldendevices.com,Joyce,Solis,Golden Devices,Held,Taylor Lee,2025-05-05,MM
+75f211bf-7783-4944-b2d4-7c8398d7154d,2025-07-04,crystal.ferguson@turner-studios.com,Crystal,Ferguson,Turner Studios,Scheduled,Jordan Johnson,23-Jul-25,MM
+5abfa792-3585-4a02-80bb-104899ce4b2c,05/04/2025,julia.torres@novatechnologies.com,Julia,Torres,Nova Technologies,No-Show,Riley Davis,07 May 2025,SMB
+e3917f62-0a1d-458d-83f7-81b4c460545d,12/04/2025,robert.potter@blueservices.com,Robert,Potter,Blue Services,No-Show,Morgan Brown,2025/04/13 0:00,MM
+fb72f6b5-0579-46b6-b519-a0d77ff919d7,20250627,gregory.edwards@lee-whiteholdings.com,Gregory,Edwards,Lee-White Holdings,No-Show,Jordan Johnson,06/07/2025,MM
+bbba27e9-6a3e-43f3-bc6a-ac9bbfe5b953,2025-07-04,leslie.tucker@wallace-martinezservices.com,Leslie,Tucker,Wallace-Martinez Services,Scheduled,Morgan Brown,"Jul 24, 2025",MM
+a5f78bf3-f120-41e0-b566-986899d99f1f,07/08/2025,stephanie.salazar@mosaicsystems.com,Stephanie,Salazar,Mosaic Systems,Scheduled,Alex Smith,2025-07-27,MM
+26dade40-0a8f-46b5-85d4-c3bff94537bd,"Jun 04, 2025",katherine.salas@pioneerholdings.com,Katherine,Salas,Pioneer Holdings,No-Show,Jordan Johnson,2025-06-16,MM
+a5ef1f47-0384-4721-942e-d6c05cb2b8b2,20250511,shannon.ramsey@apexconsulting.com,Shannon,Ramsey,Apex Consulting,Held,Alex Smith,16-May-25,MM
+0a716bb9-10e0-4afa-8d7c-124168792aca,06/23/2025,daniel.simmons@white-moralescapital.com,Daniel,Simmons,White-Morales Capital,No-Show,Alex Smith,03-Jul-25,MM
+30ec8456-1656-4059-b1b6-f6fb1c8e3c06,06-19-2025,kelli.bradley@simontechnologies.com,Kelli,Bradley,Simon Technologies,No-Show,Taylor Lee,06-29-2025,MM
+d6ee94c5-818c-40e9-be5f-8e340e540544,05/25/2025,madison.weber@novaenterprises.com,Madison,Weber,Nova Enterprises,Held,Taylor Lee,28/05/2025,MM
+b0f5d148-5528-48cb-9d61-a19e3a6906f0,07-07-2025,amber.smith@wilson-malonesystems.com,Amber,Smith,Wilson-Malone Systems,Scheduled,Alex Smith,2025-07-21,MM
+64977f91-a1aa-4271-95a1-f6aa0ee0ca80,17/05/2025,patty.perez@mosaictechnologies.com,Patty,Perez,Mosaic Technologies,Cancelled,Taylor Lee,23/05/2025,MM
+6fce27bf-1272-4e89-97d9-4fc5564af6d5,01-Jul-25,catherine.ruiz@moon-ventures.com,Catherine,Ruiz,Moon Ventures,Scheduled,Jordan Johnson,20250718,MM
+ad900838-c0cb-44d2-85a1-3d3580708c13,11 July 2025,brandi.saunders@williams-villanuevadynamics.com,Brandi,Saunders,Williams-Villanueva Dynamics,Scheduled,Alex Smith,"Jul 22, 2025",MM
+a63e9b44-5b63-4a29-88e8-103ca7a87553,2025-07-01,thomas.atkins@nimbuspartners.com,Thomas,Atkins,Nimbus Partners,Scheduled,Taylor Lee,07-15-2025,MM
+483895cd-83a0-448b-b3f7-2abfde23037a,07-Jul-25,sean.hampton@hernandez-davisholdings.com,Sean,Hampton,Hernandez-Davis Holdings,Scheduled,Jordan Johnson,07/20/2025,MM
+b7ca859d-5f14-4a57-b739-984583ba6928,07/05/2025,frank.cordova@phoenixtechnologies.com,Frank,Cordova,Phoenix Technologies,Scheduled,Alex Smith,07/15/2025,MM
+c603eeb7-0f89-4ac8-b9e0-01aadc76dee9,12/05/2025,sara.johnston@summitanalytics.com,Sara,Johnston,Summit Analytics,No-Show,Riley Davis,13-May-25,SMB
+0cdd1d04-5f8e-457d-a0d1-b5701729610e,20250708,jeffrey.mills@horizonconsulting.com,Jeffrey,Mills,Horizon Consulting,Scheduled,Morgan Brown,17 July 2025,MM
+0b0c42f9-8c2b-4f22-8822-14e6cf4d987b,"Apr 26, 2025",renee.bruce@summitventures.com,Renee,Bruce,Summit Ventures,Held,Jordan Johnson,04-28-2025,MM
+54c950d6-c247-4aa4-8e35-88b33592c129,18-Jun-25,christopher.bass@forgeanalytics.com,Christopher,Bass,Forge Analytics,Held,Jordan Johnson,"Jun 07, 2025",MM
+4a7e4157-dc73-451a-9989-8a2d9c0efb7c,07-05-2025,theresa.williams@redwoodworks.com,Theresa,Williams,Redwood Works,Held,Alex Smith,20/07/2025,MM
+f0954b62-84e5-431a-adec-a005caec6807,05-21-2025,dana.martinez@mosaicstudios.com,Dana,Martinez,Mosaic Studios,Held,Casey Miller,26/05/2025,ENT
+2a5f5229-6338-4f6a-a010-9f3a137335d4,20250705,melissa.welch@wise-deantechnologies.com,Melissa,Welch,Wise-Dean Technologies,Scheduled,Morgan Brown,18 July 2025,MM
+c72a9501-4366-4352-89e3-a2764a59fc90,"Jul 10, 2025",michelle.wilson@vaughnservices.com,Michelle,Wilson,Vaughn Services,Scheduled,Taylor Lee,27 July 2025,MM
+9d31dae3-38c3-4847-846e-82f554a6d510,2025/06/16 0:00,lawrence.adkins@phoenixnetworks.com,Lawrence,Adkins,Phoenix Networks,Held,Alex Smith,2025-06-27,MM
+efbe81dc-064a-4277-8993-0edbd7e1b30f,18/06/2025,robin.santiago@phoenixservices.com,Robin,Santiago,Phoenix Services,No-Show,Morgan Brown,07/07/2025,MM
+8767d02d-d878-43f1-87c5-c4c22fba783d,05/06/2025,darlene.miller@horizonstudios.com,Darlene,Miller,Horizon Studios,No-Show,Casey Miller,"May 08, 2025",ENT
+91450b55-90d7-445f-9b05-86c2157f6580,"Jul 09, 2025",jane.calhoun@holtpartners.com,Jane,Calhoun,Holt Partners,Scheduled,Morgan Brown,07/25/2025,MM
+a9229477-9cc2-42a4-9045-77db6388af41,2025/06/13 0:00,ashley.thompson@bell-lewisinnovations.com,Ashley,Thompson,Bell-Lewis Innovations,No-Show,Casey Miller,2025-06-15,ENT
+83a850a5-1bc5-4198-83e3-6128f8667bc7,2025-07-03,lisa.guerrero@wellsdynamics.com,Lisa,Guerrero,Wells Dynamics,Scheduled,Jordan Johnson,2025/07/21 0:00,MM
+1aaf589d-0264-41a8-ba43-4225944b843e,2025-07-05,beth.hudson@clark-figueroaservices.com,Beth,Hudson,Clark-Figueroa Services,Scheduled,Alex Smith,2025/07/24 0:00,MM
+0fbe334e-4e6f-4a68-b8ba-92be747c03cf,25 June 2025,nicholas.poole@vargas-snyderworks.com,Nicholas,Poole,Vargas-Snyder Works,Scheduled,Alex Smith,07-12-2025,MM
+a588e910-a17b-480a-9bca-58991b24adda,20250512,stephanie.manning@velocitynetworks.com,Stephanie,Manning,Velocity Networks,Canceled,Riley Davis,20250513,SMB
+16961637-7829-4011-95e7-70aec1969b01,"Jun 22, 2025",sandra.carlson@palmer-labs.com,Sandra,Carlson,Palmer Labs,No-Show,Taylor Lee,"Jul 10, 2025",MM
+f5857324-9c2a-4229-960d-da766cd757ce,12-Apr-25,aaron.miller@redwoodtechnologies.com,Aaron,Miller,Redwood Technologies,Held,Jordan Johnson,"Apr 15, 2025",MM
+c698058b-c657-4c45-be27-a76aa212beb4,25 June 2025,gwendolyn.klein@cascadeenterprises.com,Gwendolyn,Klein,Cascade Enterprises,Held,Jordan Johnson,08-Jul-25,MM
+6073df63-6cc0-4b38-a1ee-dc1e32a7687e,06-20-2025,zachary.duncan@weaver-thompsonanalytics.com,Zachary,Duncan,Weaver-Thompson Analytics,No-Show,Jordan Johnson,03-Jul-25,MM
+504e404c-476a-4680-a7f3-5b6cf44502ec,26-Jun-25,leslie.villanueva@smith-fergusonservices.com,Leslie,Villanueva,Smith-Ferguson Services,No-Show,Alex Smith,09/07/2025,MM
+3b95756a-da27-4438-8d96-e845ed0874f8,02-Jun-25,rhonda.martin@mosaicconsulting.com,Rhonda,Martin,Mosaic Consulting,No-Show,Riley Davis,"Jun 04, 2025",SMB
+dfda87ad-391b-4d95-a523-5126c4e89499,2025-06-10,curtis.williams@velocityglobal.com,Curtis,Williams,Velocity Global,No-Show,Jordan Johnson,22/06/2025,MM
+8fd27d25-63f1-4208-9f81-265366c842ab,2025/07/08 0:00,paul.hardin@price-technologies.com,Paul,Hardin,Price Technologies,Held,Casey Miller,2025/07/28 0:00,ENT
+01dcb571-03d9-45b8-8094-795d5bcfa99b,17/05/2025,cristian.santos@vertexinnovations.com,Cristian,Santos,Vertex Innovations,No-Show,Jordan Johnson,"May 21, 2025",MM
+94e70904-0e7a-4908-a40c-dcddae18dddb,"Jul 06, 2025",donna.winters@greer-pruittsolutions.com,Donna,Winters,Greer-Pruitt Solutions,Scheduled,Jordan Johnson,16 July 2025,MM
+954ce9c3-50f1-41bf-a07c-316ec2ef8c79,07/06/2025,nicole.humphrey@millersystems.com,Nicole,Humphrey,Miller Systems,No-Show,Riley Davis,"Jul 07, 2025",SMB
+7e05c128-9f4d-4491-8032-5a8f4a96a92e,06-24-2025,ryan.fisher@robertson-hickstechnologies.com,Ryan,Fisher,Robertson-Hicks Technologies,No-Show,Jordan Johnson,07-07-2025,MM
+126a1b33-c2a6-490f-9525-842b9ac4f545,07-Jul-25,sandra.black@davis-systems.com,Sandra,Black,Davis Systems,Scheduled,Morgan Brown,07-19-2025,MM
+1427f9f6-b5fa-4293-8f54-550d7874cb2e,06-Jul-25,tammy.franco@adkinssystems.com,Tammy,Franco,Adkins Systems,No-Show,Riley Davis,2025/07/08 0:00,SMB
+376cff80-c8eb-4382-b7a3-5c713c860338,2025/07/07 0:00,brittany.taylor@huntergroup.com,Brittany,Taylor,Hunter Group,Scheduled,Jordan Johnson,21-Jul-25,MM
+a588e910-a17b-480a-9bca-58991b24adda,20250512,stephanie.manning@velocitynetworks.com,Stephanie,Manning,Velocity Networks,Canceled,Riley Davis,20250513,SMB
+5e8e368f-a032-4286-b7a0-0575846778cc,11 June 2025,angelica.keith@summitholdings.com,Angelica,Keith,Summit Holdings,Held,Jordan Johnson,28 June 2025,MM
+d81db2fd-6fb1-4282-b501-630bc95c65f1,2025/07/08 0:00,robert.thomas@waltonanalytics.com,Robert,Thomas,Walton Analytics,Scheduled,Alex Smith,21/07/2025,MM
+750af9f2-917b-4dba-bc1b-bfb23f7069db,23 April 2025,eric.williams@pioneerservices.com,Eric,Williams,Pioneer Services,No-Show,Morgan Brown,04-28-2025,MM
+126dd26f-a798-4079-b80e-e78103a4bfeb,2025/06/28 0:00,travis.brown@proctor-works.com,Travis,Brown,Proctor Works,No-Show,Riley Davis,06/29/2025,SMB
+42525a3f-44bb-4852-bb21-b9c5b6328556,"Jul 10, 2025",teresa.walker@jacksongroup.com,Teresa,Walker,Jackson Group,Scheduled,Taylor Lee,27/07/2025,MM
+e20f4a05-7dca-4103-9b8d-45860a000d1e,04-May-25,crystal.robinson@bluedynamics.com,Crystal,Robinson,Blue Dynamics,Held,Jordan Johnson,05/05/2025,MM
+793e7d70-9717-4fde-b1c6-1b8777218ff9,2025/06/10 0:00,brittney.phillips@phoenixventures.com,Brittney,Phillips,Phoenix Ventures,Held,Taylor Lee,2025-06-27,MM
+a454a865-92d0-4f0d-8877-b895a547ce29,20250607,amber.wright@phoenixlabs.com,Amber,Wright,Phoenix Labs,Held,Jordan Johnson,20 June 2025,MM
+7035319d-4094-487d-ac28-4b542cd68172,04/30/2025,jeffrey.chavez@blueenterprises.com,Jeffrey,Chavez,Blue Enterprises,no show,Riley Davis,05-03-2025,SMB
+133cb67a-3fde-4d9d-8bff-4f9951ddd67c,01-Jul-25,matthew.barron@mayworks.com,Matthew,Barron,May Works,Scheduled,Alex Smith,21 July 2025,MM
+ac3131fa-c189-4779-afb4-c590786014bd,2025/05/05 0:00,susan.turner@apexventures.com,Susan,Turner,Apex Ventures,No-Show,Casey Miller,2025-05-10,ENT
+e75a2529-78f4-43eb-b538-8d3073792770,26 May 2025,trevor.johnson@stellarlabs.com,Trevor,Johnson,Stellar Labs,Held,Morgan Brown,"May 28, 2025",MM
+0b5eaa47-7f80-49da-917c-b4d537d5c067,06/27/2025,brenda.rogers@cline-ayalaglobal.com,Brenda,Rogers,Cline-Ayala Global,No-Show,Casey Miller,"Jul 01, 2025",ENT
+9f7b9b94-3619-4dab-81f2-6dad684e7873,2025/06/29 0:00,joe.evans@williamsventures.com,Joe,Evans,Williams Ventures,No-Show,Casey Miller,07-03-2025,ENT
+b4a41d6b-8f6e-4daf-bbbd-9f205b548b4d,"Jul 04, 2025",jacqueline.mcbride@wells-hernandezenterprises.com,Jacqueline,Mcbride,Wells-Hernandez Enterprises,Scheduled,Morgan Brown,"Jul 22, 2025",MM
+7c71f28f-6649-4893-95d0-76e0c01c0966,"Apr 12, 2025",maria.jones@forgeenterprises.com,Maria,Jones,Forge Enterprises,Held,Casey Miller,20250413,ENT
+6220d25a-54fa-4a12-bcf7-8c890f400586,06 July 2025,judith.carter@stellargroup.com,Judith,Carter,Stellar Group,Scheduled,Jordan Johnson,22-Jul-25,MM
+62503c9c-2dc2-4cbe-877b-60976f84ecdb,17 June 2025,daniel.fox@adkins-group.com,Daniel,Fox,Adkins Group,No-Show,Riley Davis,"Jun 19, 2025",SMB
+a3edc84b-613b-4277-8178-a26a9406b50b,2025-07-09,edward.burgess@vertexworks.com,Edward,Burgess,Vertex Works,Scheduled,Jordan Johnson,25 July 2025,MM
+be2d5dc5-9427-48c1-bdcb-a04261b1c737,07-01-2025,jesse.perez@apexworks.com,Jesse,Perez,Apex Works,Held,Jordan Johnson,07-20-2025,MM
+ce8024a7-e507-4031-a337-bd7f56a7333d,20250514,riley.bryant@stellarconsulting.com,Riley,Bryant,Stellar Consulting,Held,Casey Miller,2025-05-16,ENT
+53d3b974-ea73-4a06-beef-565eff54c9a5,2025-05-18,theresa.clark@novacapital.com,Theresa,Clark,Nova Capital,Held,Riley Davis,19-May-25,SMB
+fda99a3b-aa83-4cf0-a613-7fcc9e9d660c,2025/06/24 0:00,jeffrey.johnson@pioneerpartners.com,Jeffrey,Johnson,Pioneer Partners,Scheduled,Jordan Johnson,20250712,MM
+2eea9d93-8480-4b91-bd8e-bf7cd6795e9d,27/06/2025,william.hansen@alvarado-davidsonsystems.com,William,Hansen,Alvarado-Davidson Systems,No-Show,Jordan Johnson,07 July 2025,MM
+340755ec-186d-4b42-bc7a-405cd500335c,06/17/2025,rodney.morales@vertexglobal.com,Rodney,Morales,Vertex Global,Held,Morgan Brown,07-01-2025,MM
+cbd7791f-ad61-48f2-8ecb-d364be53c8ae,07-08-2025,jessica.crosby@riveraconsulting.com,Jessica,Crosby,Rivera Consulting,Scheduled,Alex Smith,21-Jul-25,MM
+589fe8fd-250b-4456-b735-c46c0115e62a,19 June 2025,philip.dunn@kramer-shannonanalytics.com,Philip,Dunn,Kramer-Shannon Analytics,No-Show,Taylor Lee,06-27-2025,MM
+13e9e3dc-9bc4-4067-a897-9a0f987a3e6d,"Jul 10, 2025",austin.duncan@kelley-andersonsystems.com,Austin,Duncan,Kelley-Anderson Systems,Scheduled,Casey Miller,07/14/2025,ENT
+b3a36c08-cfca-49b1-a4a2-a403c6a4f389,2025-06-17,jason.steele@rios-solutions.com,Jason,Steele,Rios Solutions,no show,Morgan Brown,06-24-2025,MM
+6abe0586-fb51-4348-b18c-bc347df683b7,2025-07-02,james.bowers@hamilton-smithcapital.com,James,Bowers,Hamilton-Smith Capital,Scheduled,Morgan Brown,22-Jul-25,MM
+045fe889-d68f-4dbe-a2ca-34eec62f4e59,04-May-25,robert.oconnell@novasolutions.com,Robert,Oconnell,Nova Solutions,Held,Morgan Brown,2025-05-10,MM
+31b180f4-c53e-4cfb-91ff-3f53cd841734,04-26-2025,mary.thompson@vertexservices.com,Mary,Thompson,Vertex Services,Held,Morgan Brown,2025/04/30 0:00,MM
+bf32b719-3a6e-45bf-a429-b5f148f881ce,06/29/2025,ashley.knight@ruizanalytics.com,Ashley,Knight,Ruiz Analytics,No-Show,Alex Smith,08 July 2025,MM
+88f9c8d5-049d-4a42-978a-7916977b4000,2025-07-10,matthew.galloway@jacksonlabs.com,Matthew,Galloway,Jackson Labs,Scheduled,Quinn Thomas,"Jul 13, 2025",ENT
+53341aea-d712-4fe2-8137-1ad92efd4bb4,"Jun 28, 2025",daniel.murphy@bluesolutions.com,Daniel,Murphy,Blue Solutions,Scheduled,Alex Smith,13/07/2025,MM
+e5d9fbcc-e47b-4df3-bbdf-125c2380ff7a,2025-06-21,sergio.knight@apexglobal.com,Sergio,Knight,Apex Global,Held,Taylor Lee,20250701,MM
+92b400de-dd18-4c6b-aa43-c59857ccc923,05/21/2025,john.daniel@summitservices.com,John,Daniel,Summit Services,Canceled,Riley Davis,25-May-25,SMB
+6a84b104-6008-4061-b3e9-f298cf815494,2025-07-04,andrea.grant@stewartdynamics.com,Andrea,Grant,Stewart Dynamics,Scheduled,Morgan Brown,2025-07-14,MM
+1a2200c3-ec63-4bdc-935c-411729a06f24,20250706,john.burns@murphy-trandynamics.com,John,Burns,Murphy-Tran Dynamics,Scheduled,Riley Davis,07-12-2025,SMB
+33a7300b-60d0-4634-9371-b3c13fc00db2,14/04/2025,tanya.kim@mosaiclabs.com,Tanya,Kim,Mosaic Labs,Canceled,Casey Miller,16/04/2025,ENT
+6b5add39-2eec-4a32-ab8c-21aca036eaa9,06-20-2025,brad.miller@craig-consulting.com,Brad,Miller,Craig Consulting,No-Show,Taylor Lee,20250705,MM
+a1630783-34ed-4ecd-a136-23c3b3e664f5,06-27-2025,stacy.jackson@acosta-networks.com,Stacy,Jackson,Acosta Networks,No-Show,Quinn Thomas,2025-07-01,ENT
+ab9cf342-98ec-41d4-943f-9feaf4e7b168,09-Jul-25,patricia.gonzalez@fitzpatrick-dynamics.com,Patricia,Gonzalez,Fitzpatrick Dynamics,Scheduled,Morgan Brown,07/23/2025,MM
+f89d6b73-1ca1-40b1-9893-271ce0602ce9,16 June 2025,mark.perez@apexanalytics.com,Mark,Perez,Apex Analytics,Held,Morgan Brown,20250627,MM
+34c707f3-d72f-4c82-8ed9-9c57c5b6e1da,24-May-25,lori.ingram@apexlabs.com,Lori,Ingram,Apex Labs,no show,Quinn Thomas,05/26/2025,ENT
+e1bc3dcd-d63b-475b-93c4-bdf4f4dd83cb,07/08/2025,anne.hernandez@halldynamics.com,Anne,Hernandez,Hall Dynamics,Scheduled,Alex Smith,18/07/2025,MM
+f43da381-e443-43a7-9b23-a0b0b98f0975,06/23/2025,jose.hood@nelson-browndevices.com,Jose,Hood,Nelson-Brown Devices,No-Show,Quinn Thomas,28/06/2025,ENT
+e6ede707-890f-499c-b58b-0b159ea0b3d4,25 June 2025,richard.foster@rios-padillanetworks.com,Richard,Foster,Rios-Padilla Networks,No-Show,Taylor Lee,09/07/2025,MM
+ff62da60-1b70-4f75-a7e5-523960b214a0,"Jun 22, 2025",jessica.jacobs@mora-whiteglobal.com,Jessica,Jacobs,Mora-White Global,No-Show,Jordan Johnson,"Jul 03, 2025",MM
+936d147b-5a9c-426d-a7d6-ff8e00f973e8,20250710,william.hale@phelpsanalytics.com,William,Hale,Phelps Analytics,Scheduled,Alex Smith,27 July 2025,MM
+3685cfd1-6fb9-47e6-8389-d33f42c031ab,2025/07/10 0:00,sharon.armstrong@harris-works.com,Sharon,Armstrong,Harris Works,Scheduled,Quinn Thomas,12 July 2025,ENT
+b4ce1021-d8dd-4a57-8d41-909d63f1dd5f,2025-06-28,kelly.donovan@cascadeventures.com,Kelly,Donovan,Cascade Ventures,Scheduled,Taylor Lee,2025/07/13 0:00,MM
+2f02ca7e-e977-4148-8589-6227548ee20d,2025/07/03 0:00,patricia.fernandez@batesdevices.com,Patricia,Fernandez,Bates Devices,Scheduled,Jordan Johnson,19/07/2025,MM
+8b8a9393-91fd-415f-9347-13b6d9139763,2025/07/01 0:00,laura.haney@novadynamics.com,Laura,Haney,Nova Dynamics,Scheduled,Morgan Brown,2025/07/12 0:00,MM
+1e524593-8ca9-48b0-aefa-98592e4bb9c9,17-Jun-25,michael.bradshaw@mosaicventures.com,Michael,Bradshaw,Mosaic Ventures,No-Show,Jordan Johnson,"Jun 26, 2025",MM
+5d3ce3d7-20a8-4a8b-84c4-2dd5c8b49083,2025-07-04,jessica.kim@logan-group.com,Jessica,Kim,Logan Group,No-Show,Jamie Wilson,20250705,SMB
+f147bfab-74c5-45bd-b41e-99c483097bbc,10-Jun-25,benjamin.smith@nimbusenterprises.com,Benjamin,Smith,Nimbus Enterprises,Held,Morgan Brown,26 June 2025,MM
+d16267ac-7f8b-4e55-b604-30df80d18362,01 June 2025,shannon.james@quantumstudios.com,Shannon,James,Quantum Studios,No-Show,Taylor Lee,20250616,MM
+6ea6de1b-6d05-4bec-af5f-a4f0c7754987,2025-06-25,adam.thompson@mendezconsulting.com,Adam,Thompson,Mendez Consulting,No-Show,Alex Smith,07/07/2025,MM
+17dcea9d-7406-4d5d-a52b-384ee539be3a,23/06/2025,nicole.williams@vega-thomasholdings.com,Nicole,Williams,Vega-Thomas Holdings,No-Show,Morgan Brown,"Jul 07, 2025",MM
+97ffb9f3-a111-456e-819f-0a46037835d9,2025/06/19 0:00,darrell.glover@best-townsendenterprises.com,Darrell,Glover,Best-Townsend Enterprises,No-Show,Jamie Wilson,22-Jun-25,SMB
+cbef0d07-74c9-4ad3-8b7d-d103895664ba,2025/07/06 0:00,nancy.wolfe@davis-networks.com,Nancy,Wolfe,Davis Networks,Scheduled,Jordan Johnson,07-17-2025,MM
+cf236c0d-ade8-4b18-87d3-ff785a3618ba,24/06/2025,ruben.dunn@forgeservices.com,Ruben,Dunn,Forge Services,Held,Alex Smith,07/06/2025,MM
+3523352f-4a36-4eba-80f3-a09fb00f79c9,20250609,heather.williams@silverdynamics.com,Heather,Williams,Silver Dynamics,No-Show,Taylor Lee,2025/06/23 0:00,MM
+7f28a316-ca20-4f8d-b8fe-b85721087b7e,20250514,phillip.nelson@phoenixanalytics.com,Phillip,Nelson,Phoenix Analytics,Held,Quinn Thomas,05/18/2025,ENT
+0cdc9f18-391c-4b5e-b476-4a9a4c3c6089,23-Apr-25,brandy.chavez@quantumholdings.com,Brandy,Chavez,Quantum Holdings,Held,Jamie Wilson,29-Apr-25,SMB
+166428b4-a7fe-4e53-bc34-a7331e0d07f0,07-03-2025,david.fox@sullivan-doylecapital.com,David,Fox,Sullivan-Doyle Capital,Scheduled,Morgan Brown,"Jul 20, 2025",MM
+a046e125-34a5-4218-a962-68c9106d410b,06/27/2025,nathaniel.brown@robinson-solutions.com,Nathaniel,Brown,Robinson Solutions,No-Show,Quinn Thomas,2025-06-28,ENT
+82768df0-9cad-4e69-98ba-0b0c6920ae57,"Jun 02, 2025",colin.terry@summitstudios.com,Colin,Terry,Summit Studios,No-Show,Quinn Thomas,06-05-2025,ENT
+7de3d60a-181f-431d-9df7-3e14c1145499,02-Jul-25,lisa.carr@thomas-technologies.com,Lisa,Carr,Thomas Technologies,No-Show,Jamie Wilson,2025-07-03,SMB
+2be7658b-50b3-421d-bbaa-8e59795aae59,2025/05/18 0:00,cameron.parker@velocitytechnologies.com,Cameron,Parker,Velocity Technologies,Held,Taylor Lee,05/21/2025,MM
+18b58dbb-b333-4f7e-a16f-85aab92f5039,2025/06/30 0:00,rodney.ayers@turner-solutions.com,Rodney,Ayers,Turner Solutions,Scheduled,Alex Smith,18/07/2025,MM
+9e258048-d18a-4ef3-a910-fd83e0a3c0cb,27-Apr-25,brian.smith@cascadedynamics.com,Brian,Smith,Cascade Dynamics,No-Show,Alex Smith,30 April 2025,MM
+76b92c7b-4da7-4e79-9593-de488b716621,2025/05/28 0:00,john.anderson@pioneernetworks.com,John,Anderson,Pioneer Networks,Held,Jamie Wilson,06/03/2025,SMB
+1b158ce5-5024-4351-891f-b833618ca63f,04/28/2025,jason.beck@vertexsolutions.com,Jason,Beck,Vertex Solutions,Held,Quinn Thomas,29-Apr-25,ENT
+0bf75ddf-b2a0-4162-8baa-6998ca9a8a52,07/07/2025,jennifer.collins@horizonnetworks.com,Jennifer,Collins,Horizon Networks,Scheduled,Alex Smith,07-25-2025,MM
+6b9c59b1-1a8e-49fc-bcab-bcb3511abde3,2025/06/25 0:00,nicolas.garcia@ortiz-hudsonstudios.com,Nicolas,Garcia,Ortiz-Hudson Studios,No-Show,Alex Smith,07-05-2025,MM
+0d839c21-e78d-4101-82a4-fec0a9f081e6,25 June 2025,eric.guzman@morrison-consulting.com,Eric,Guzman,Morrison Consulting,Scheduled,Alex Smith,20250714,MM
+65a4845a-9519-4692-b640-b8756a744c81,13-Apr-25,joel.williams@redwoodpartners.com,Joel,Williams,Redwood Partners,No-Show,Quinn Thomas,2025-04-16,ENT
+f4237a23-feaf-4086-9da5-6b54bb24d65d,07/01/2025,jerry.logan@maxwellstudios.com,Jerry,Logan,Maxwell Studios,Scheduled,Jordan Johnson,20250715,MM
+164450aa-e4aa-49ef-ad1b-aba2b047e65d,07 May 2025,jennifer.adkins@quantumsolutions.com,Jennifer,Adkins,Quantum Solutions,No-Show,Morgan Brown,05-11-2025,MM
+58ace46f-02f5-4621-a52d-3af39390f81d,19/04/2025,ariana.jennings@pioneerinnovations.com,Ariana,Jennings,Pioneer Innovations,Held,Jordan Johnson,04-20-2025,MM
+8b489199-bd67-45ed-ae14-54128db86806,24 June 2025,stacy.cole@dawsonconsulting.com,Stacy,Cole,Dawson Consulting,No-Show,Quinn Thomas,06/26/2025,ENT
+fc8fa469-32d5-4f16-a719-922c87046ef1,"Jun 24, 2025",melanie.watson@velasquezsystems.com,Melanie,Watson,Velasquez Systems,Scheduled,Morgan Brown,13-Jul-25,MM
+59855f59-9520-459f-a619-57dc759538b2,01-Jul-25,amanda.haynes@ochoa-holdings.com,Amanda,Haynes,Ochoa Holdings,Scheduled,Jordan Johnson,14-Jul-25,MM
+2d6844a6-a058-4883-ad73-3f12b44d34f1,2025-07-01,briana.villanueva@valencia-technologies.com,Briana,Villanueva,Valencia Technologies,Scheduled,Jordan Johnson,15-Jul-25,MM
+50cf1ec2-8976-4ad3-b613-34f075c40aa7,2025-07-10,monica.thomas@perezdevices.com,Monica,Thomas,Perez Devices,Scheduled,Taylor Lee,07-25-2025,MM
+d4554776-f6dc-4959-9938-564a1eef0ef2,24/05/2025,judy.baker@horizondynamics.com,Judy,Baker,Horizon Dynamics,Held,Morgan Brown,05/25/2025,MM
+34eab77c-7f7e-49eb-802c-e86cc6ff3bed,05-May-25,kathleen.webster@cascadeinnovations.com,Kathleen,Webster,Cascade Innovations,No-Show,Taylor Lee,10-May-25,MM
+b863d226-99a8-4474-bc62-a4f60f7668a0,02/07/2025,jose.schultz@redwoodholdings.com,Jose,Schultz,Redwood Holdings,Scheduled,Morgan Brown,2025/07/19 0:00,MM
+01c3470b-ad99-449d-b8a7-2252c2867bcc,07-06-2025,courtney.mills@mosaicsolutions.com,Courtney,Mills,Mosaic Solutions,Scheduled,Taylor Lee,07/18/2025,MM
+33f35e70-ca17-4c32-a02d-551cc6ca25ea,20250712,jennifer.brock@kelleyworks.com,Jennifer,Brock,Kelley Works,Scheduled,Alex Smith,"Jul 28, 2025",MM
+f746c1e2-9e76-4d55-a595-3bf706a318f8,28-Jun-25,amy.silva@velocityworks.com,Amy,Silva,Velocity Works,Held,Alex Smith,11/07/2025,MM
+c1404de7-8204-49b9-8e75-f88b02c49d97,2025-06-22,gary.jackson@novaglobal.com,Gary,Jackson,Nova Global,No-Show,Taylor Lee,03 July 2025,MM
+53cc99c2-de23-461e-91b3-298e99541ba9,25/05/2025,jennifer.banks@stellarsolutions.com,Jennifer,Banks,Stellar Solutions,Held,Morgan Brown,2025-05-28,MM
+6f5ce805-fc1d-4ce3-a1b8-8f95751255be,2025-07-09,jamie.arnold@mosaicdevices.com,Jamie,Arnold,Mosaic Devices,Scheduled,Alex Smith,07-22-2025,MM
+273e2496-1393-4285-b1b2-0f86de4278ab,28 June 2025,paige.smith@webb-dynamics.com,Paige,Smith,Webb Dynamics,Scheduled,Taylor Lee,2025/07/17 0:00,MM
+9de4efe1-323d-46f1-9fed-86cf4f83b0f2,10-Jul-25,nicholas.gross@williamsglobal.com,Nicholas,Gross,Williams Global,Scheduled,Taylor Lee,07-25-2025,MM
+080d4f1a-5f59-4333-8a3f-60652733d9d8,"May 11, 2025",paul.jones@forgeholdings.com,Paul,Jones,Forge Holdings,Canceled,Jamie Wilson,14 May 2025,SMB
+01853c00-2599-4514-8895-a80c792dacee,07/07/2025,jose.garcia@wheelerholdings.com,Jose,Garcia,Wheeler Holdings,Scheduled,Quinn Thomas,13 July 2025,ENT
+dd24798c-4d7c-490c-9646-3677960cc271,2025-07-11,raymond.harris@martindevices.com,Raymond,Harris,Martin Devices,Scheduled,Morgan Brown,07/21/2025,MM
+4bd09cd9-3cc3-48d9-8dde-1d455654aec1,06-24-2025,james.marsh@hall-studios.com,James,Marsh,Hall Studios,No-Show,Alex Smith,2025/07/06 0:00,MM
+e9965864-fd0d-4865-b5d0-73ba1ea6790f,07-01-2025,catherine.hamilton@harris-barkerdynamics.com,Catherine,Hamilton,Harris-Barker Dynamics,No-Show,Jamie Wilson,02 July 2025,SMB
+d88017ef-5662-4a96-8949-b18a0bc55e34,04-28-2025,anthony.moore@phoenixworks.com,Anthony,Moore,Phoenix Works,Held,Jordan Johnson,29/04/2025,MM
+ab067726-c836-4f02-8c77-c1f3bfb92a75,06/01/2025,jamie.smith@redwoodstudios.com,Jamie,Smith,Redwood Studios,Held,Quinn Thomas,20250603,ENT
+9255f63d-6b07-4b88-9cae-21ccf15f7fa7,06-22-2025,elizabeth.sullivan@thomas-huffmannetworks.com,Elizabeth,Sullivan,Thomas-Huffman Networks,No-Show,Taylor Lee,"Jul 04, 2025",MM
+f575347b-6093-4d20-be26-73f2f03a7889,2025/04/29 0:00,brenda.hall@mosaicdynamics.com,Brenda,Hall,Mosaic Dynamics,Held,Casey Miller,05-04-2025,ENT
+a4726286-270c-49ad-a5f1-c65fc35cb4a9,2025-06-22,raymond.goodman@smith-consulting.com,Raymond,Goodman,Smith Consulting,No-Show,Taylor Lee,20250706,MM
+2afbb97f-3b4c-4da7-ba52-1fd5c4a19c00,20250708,ryan.valdez@cruz-allenworks.com,Ryan,Valdez,Cruz-Allen Works,No-Show,Jamie Wilson,2025-07-10,SMB
+a8a3d0e3-ec58-42fb-93e2-8856f2c3645a,03-May-25,brenda.wright@velocitystudios.com,Brenda,Wright,Velocity Studios,Cancelled,Jamie Wilson,05/05/2025,SMB
+c887d7fc-2f3e-46cb-8dac-7adcdeb0e5a3,04/28/2025,maria.henderson@titananalytics.com,Maria,Henderson,Titan Analytics,Held,Casey Miller,02 May 2025,ENT
+4bfa980c-7e43-417a-80c6-5aeb0d618b7e,20250413,david.wright@stellarpartners.com,David,Wright,Stellar Partners,Held,Alex Smith,17 April 2025,MM
+0556c2c6-7955-4759-9be0-e49c3c71ddd7,2025-04-26,veronica.simpson@velocitysolutions.com,Veronica,Simpson,Velocity Solutions,No-Show,Jamie Wilson,"Apr 30, 2025",SMB
+a69280d0-4f8b-4e46-8567-1856fc3edb11,04-16-2025,robert.montgomery@titansolutions.com,Robert,Montgomery,Titan Solutions,Held,Jordan Johnson,20 April 2025,MM
+101438ac-6abf-4422-b046-6df6c20d3b1b,05/26/2025,james.ferrell@velocitylabs.com,James,Ferrell,Velocity Labs,Held,Taylor Lee,29 May 2025,MM
+26a1b5db-25ba-4f6e-bddc-e0c747a749a3,09 July 2025,joanna.kennedy@lopezdevices.com,Joanna,Kennedy,Lopez Devices,Scheduled,Morgan Brown,07/20/2025,MM
+ff6e4eef-93f2-4222-8ca8-2ac13c053090,"May 28, 2025",sharon.cochran@vertextechnologies.com,Sharon,Cochran,Vertex Technologies,Held,Jordan Johnson,"Jun 01, 2025",MM
+ee62c53a-3ade-420e-af89-9c9c0daf1327,2025-07-02,jonathan.reyes@ferrell-henrysystems.com,Jonathan,Reyes,Ferrell-Henry Systems,No-Show,Morgan Brown,11-Jul-25,MM
+f15efa72-3fd8-4f8c-a2d4-489a1a011d5b,2025-07-06,garrett.lin@nimbusdynamics.com,Garrett,Lin,Nimbus Dynamics,Scheduled,Jordan Johnson,27 July 2025,MM
+32d19292-e65a-467d-af34-50cbd65d2834,2025-06-25,sarah.lee@rowe-enterprises.com,Sarah,Lee,Rowe Enterprises,No-Show,Alex Smith,20250703,MM
+a4b421b5-0971-4633-bf45-5fb3f2d0bade,07-01-2025,shirley.suarez@lunarholdings.com,Shirley,Suarez,Lunar Holdings,Scheduled,Morgan Brown,20250716,MM
+c4720c6e-1b76-4497-a64e-32258369fa8d,28-Jun-25,timothy.hinton@gonzalez-gonzaleztechnologies.com,Timothy,Hinton,Gonzalez-Gonzalez Technologies,No-Show,Jordan Johnson,"Jul 10, 2025",MM
+53cc99c2-de23-461e-91b3-298e99541ba9,25/05/2025,jennifer.banks@stellarsolutions.com,Jennifer,Banks,Stellar Solutions,Held,Morgan Brown,2025-05-28,MM
+fe0efd8f-ad53-4c1f-8dba-f7a2dd9d3575,2025/04/16 0:00,zachary.hicks@nimbussolutions.com,Zachary,Hicks,Nimbus Solutions,Held,Casey Miller,"Apr 18, 2025",ENT
+f4aeeef9-3a7b-4fdc-a8f0-23075e00cd9c,07-01-2025,raymond.christensen@cole-luceroventures.com,Raymond,Christensen,Cole-Lucero Ventures,Scheduled,Taylor Lee,"Jul 12, 2025",MM
+8f9366dc-5ad2-4ed1-987d-c75eec62eb9e,2025/05/13 0:00,david.alvarez@goldenholdings.com,David,Alvarez,Golden Holdings,No-Show,Alex Smith,2025/05/19 0:00,MM
+a139287a-a0e9-47af-9960-f350c5f806c8,07/11/2025,theresa.miller@harris-meltondynamics.com,Theresa,Miller,Harris-Melton Dynamics,Scheduled,Morgan Brown,"Jul 23, 2025",MM
+b4ce1021-d8dd-4a57-8d41-909d63f1dd5f,2025-06-28,kelly.donovan@cascadeventures.com,Kelly,Donovan,Cascade Ventures,Scheduled,Taylor Lee,2025/07/13 0:00,MM
+f5d2955c-1c75-4731-bc73-d1a727312047,2025/06/16 0:00,sandra.maldonado@mcneilanalytics.com,Sandra,Maldonado,Mcneil Analytics,No-Show,Alex Smith,"Jun 29, 2025",MM
+78192c75-ca9f-4060-af8f-b8490d485de3,04/30/2025,daniel.salinas@lunarventures.com,Daniel,Salinas,Lunar Ventures,Held,Casey Miller,05-02-2025,ENT
+3130614e-5fbe-4aa2-ba27-bf8a4bd85d57,2025-07-06,steven.sanders@nelson-johnsonservices.com,Steven,Sanders,Nelson-Johnson Services,Scheduled,Taylor Lee,20250721,MM
+185d7274-df77-4924-b27a-490fe36ff4b5,2025/05/18 0:00,alyssa.long@redwoodanalytics.com,Alyssa,Long,Redwood Analytics,Held,Morgan Brown,"May 19, 2025",MM
+bb2cee18-50b7-4c47-b00b-c4bdfd462140,15/06/2025,kristi.dillon@moore-ayalatechnologies.com,Kristi,Dillon,Moore-Ayala Technologies,No-Show,Casey Miller,06/18/2025,ENT
+59810fde-58d7-4836-808a-9a1b3015544a,"Jul 06, 2025",joseph.watson@underwood-fosterworks.com,Joseph,Watson,Underwood-Foster Works,No-Show,Casey Miller,"Jul 07, 2025",ENT
+544fa9f5-f066-49da-9c10-0281c0ce1c60,09/07/2025,daniel.leonard@powell-sanfordanalytics.com,Daniel,Leonard,Powell-Sanford Analytics,Scheduled,Alex Smith,07-22-2025,MM
+0ffc923a-93ac-4055-b556-3d184d620429,2025-05-24,derek.zuniga@phoenixglobal.com,Derek,Zuniga,Phoenix Global,Cancelled,Jamie Wilson,2025/05/29 0:00,SMB
+0dacb752-a6e9-45ed-adbf-7d233b143ed7,2025/06/28 0:00,nicholas.gray@fisher-eatoncapital.com,Nicholas,Gray,Fisher-Eaton Capital,Scheduled,Taylor Lee,"Jul 17, 2025",MM
+a4a36e44-1a89-4164-8b72-ef3761ce15ec,12 May 2025,stephen.mckee@novaholdings.com,Stephen,Mckee,Nova Holdings,No-Show,Alex Smith,05-18-2025,MM
+4d270f4c-58a5-428f-a369-a9da89a0ad33,05/26/2025,helen.jones@goldencapital.com,Helen,Jones,Golden Capital,Held,Casey Miller,20250531,ENT
+7c08f54f-e38e-4931-b697-f92593ae6519,2025-04-22,rebecca.jackson@phoenixgroup.com,Rebecca,Jackson,Phoenix Group,Held,Taylor Lee,28/04/2025,MM
+dd672dbc-2ca1-4b61-9e9c-6dd8a147b302,29 June 2025,victoria.larson@stellarinnovations.com,Victoria,Larson,Stellar Innovations,No-Show,Alex Smith,09/07/2025,MM
+7660c466-ac0f-48f0-86e5-98318070ad4c,11/05/2025,jessica.smith@pioneerdynamics.com,Jessica,Smith,Pioneer Dynamics,Held,Jamie Wilson,"May 05, 2025",SMB
+a18e454e-6d2a-4bf0-b12b-e97139035595,"Jul 02, 2025",david.thompson@titantechnologies.com,David,Thompson,Titan Technologies,Scheduled,Jordan Johnson,2025-07-12,MM
+defdf1f6-de79-4b44-b413-dd15992b03d5,2025-04-30,sarah.moore@novanetworks.com,Sarah,Moore,Nova Networks,Held,Alex Smith,03/05/2025,MM
+81dd37be-0779-4ded-85a6-a52797cc905d,06/29/2025,april.stark@smith-devices.com,April,Stark,Smith Devices,No-Show,Casey Miller,07/02/2025,ENT
+2afc2afd-ccc3-4b25-b4be-2db3b965d097,08/07/2025,scott.bennett@reed-devices.com,Scott,Bennett,Reed Devices,Scheduled,Jordan Johnson,"Jul 28, 2025",MM
+0ed34cf6-1fed-406c-a3ef-ef8fd9bca16f,09 June 2025,lauren.carson@redwoodcapital.com,Lauren,Carson,Redwood Capital,No-Show,Taylor Lee,26-Jun-25,MM
+9aa966ee-62ee-4bb8-9a0f-156910fa803a,12-Jul-25,april.moody@edwards-global.com,April,Moody,Edwards Global,Scheduled,Morgan Brown,07/22/2025,MM
+0593b200-8a91-4c0a-971e-a19ff547e6bc,"Apr 21, 2025",michelle.evans@velocityinnovations.com,Michelle,Evans,Velocity Innovations,No-Show,Jordan Johnson,04/24/2025,MM
+eb7de844-5795-4af1-b0ec-ae6e5f79ad3e,"May 04, 2025",krista.gibson@silverlabs.com,Krista,Gibson,Silver Labs,Held,Jamie Wilson,06-May-25,SMB
+ade685a0-ec76-467f-be73-9c46d9b1f588,26-Jun-25,arthur.smith@collinslabs.com,Arthur,Smith,Collins Labs,No-Show,Alex Smith,07-Jul-25,MM
+95bbf5c2-291b-45fb-8be9-39f064827572,14 June 2025,michael.lewis@vertexstudios.com,Michael,Lewis,Vertex Studios,No-Show,Alex Smith,05 July 2025,MM
+9ec5057d-b106-4172-9348-f6b8842024d1,"Jul 01, 2025",joshua.blair@silversolutions.com,Joshua,Blair,Silver Solutions,Scheduled,Morgan Brown,18/07/2025,MM
+fdca32e2-7bff-41d6-b786-99064e3117a1,26-May-25,monica.miller@silverstudios.com,Monica,Miller,Silver Studios,No-Show,Jamie Wilson,"May 27, 2025",SMB
+29ebccee-601c-48bc-beba-0b8c71cead6a,"Apr 16, 2025",jose.allen@goldennetworks.com,Jose,Allen,Golden Networks,Held,Jamie Wilson,"Apr 17, 2025",SMB
+c0d10e30-98d6-471d-ae7f-b546242139a4,20250709,kayla.lewis@gregory-analytics.com,Kayla,Lewis,Gregory Analytics,Scheduled,Alex Smith,20/07/2025,MM
+2b2d854f-2823-4fe8-944f-0c8287395cba,07/07/2025,billy.juarez@hester-systems.com,Billy,Juarez,Hester Systems,Scheduled,Alex Smith,2025-07-25,MM
+9d9e3c4b-22bc-4ce2-88dc-79d22ddeffa3,07-12-2025,april.stewart@harrispartners.com,April,Stewart,Harris Partners,Scheduled,Jordan Johnson,2025-07-30,MM
+ce9b1788-bdde-423e-a2af-89ff6e0f3c06,26-Apr-25,ellen.morgan@velocityconsulting.com,Ellen,Morgan,Velocity Consulting,Canceled,Jamie Wilson,01-May-25,SMB
+58b33d0f-ecee-4656-8be0-cadca63915da,2025/05/14 0:00,cynthia.moore@quantumcapital.com,Cynthia,Moore,Quantum Capital,Held,Alex Smith,05-18-2025,MM
+5114ae45-b9e4-40e3-84b2-54ae2c1b4ed4,"Jul 06, 2025",mary.kelly@millssolutions.com,Mary,Kelly,Mills Solutions,Scheduled,Taylor Lee,23/07/2025,MM
+60c0ceab-3ec5-4b16-9ca8-e3021fcb13e5,07/10/2025,natalie.schmidt@avilaconsulting.com,Natalie,Schmidt,Avila Consulting,Scheduled,Alex Smith,22/07/2025,MM
+24709253-87b2-488b-a854-790c03e688e6,"Jul 09, 2025",barbara.coleman@trujillopartners.com,Barbara,Coleman,Trujillo Partners,Scheduled,Morgan Brown,21-Jul-25,MM
+1fb76f13-7c9c-4ac5-bd58-47c82c7acdfa,18 May 2025,megan.le@summitnetworks.com,Megan,Le,Summit Networks,Held,Casey Miller,05-22-2025,ENT
+39aa3e21-a76b-48cd-8a83-be22ce3f06ef,20250423,denise.mccann@horizonsolutions.com,Denise,Mccann,Horizon Solutions,Held,Casey Miller,2025/04/25 0:00,ENT
+476d64a5-99c0-48f4-aa72-83abef895226,20250706,linda.morrow@parks-labs.com,Linda,Morrow,Parks Labs,Scheduled,Morgan Brown,07/20/2025,MM
+81bc67a6-2439-48a0-a21c-1a32ca45a997,20250629,nicole.andrews@waller-chavezgroup.com,Nicole,Andrews,Waller-Chavez Group,No-Show,Jordan Johnson,20250710,MM
+9e9fa885-0121-4f1f-954b-ddbf45b11f63,05-12-2025,nathan.malone@quantumtechnologies.com,Nathan,Malone,Quantum Technologies,Held,Jamie Wilson,18/05/2025,SMB
+b51051a9-3fc6-4ce2-9f6a-ff0a12120ae5,2025/06/23 0:00,jeremy.dalton@quantumlabs.com,Jeremy,Dalton,Quantum Labs,Held,Taylor Lee,07-03-2025,MM
+3efc8107-7923-4b3f-9270-74b253633706,2025/05/20 0:00,joseph.coleman@pioneerenterprises.com,Joseph,Coleman,Pioneer Enterprises,Held,Jamie Wilson,20250525,SMB
+6ca03178-1400-4e15-a600-55dea265ee00,20250531,kathryn.snyder@blueworks.com,Kathryn,Snyder,Blue Works,No-Show,Jordan Johnson,06-18-2025,MM
+425abe2e-1c93-44ef-b879-f799e3591c58,02/06/2025,carol.tucker@silverenterprises.com,Carol,Tucker,Silver Enterprises,Canceled,Jamie Wilson,06/03/2025,SMB
+3985dbeb-9c1d-4ae7-bef2-a6401678bdd4,05/07/2025,christine.becker@meltonpartners.com,Christine,Becker,Melton Partners,Scheduled,Taylor Lee,25/07/2025,MM
+b04868ef-ba45-42a2-92b1-550f24c419b3,12/07/2025,becky.schroeder@smith-oneillstudios.com,Becky,Schroeder,Smith-Oneill Studios,Scheduled,Taylor Lee,2025/07/25 0:00,MM
+9f824504-722c-4ae1-bd04-35bdb6325d4e,23 June 2025,william.hartman@butler-consulting.com,William,Hartman,Butler Consulting,Scheduled,Taylor Lee,2025-07-12,MM
+c5934bb1-db53-4bd7-86c6-8cd1b02fbd8e,"Jun 14, 2025",denise.davenport@vertexanalytics.com,Denise,Davenport,Vertex Analytics,Held,Morgan Brown,2025/06/26 0:00,MM
+d6039ecc-7233-425b-b7df-8bcb5adcde7c,15/06/2025,jonathan.rivas@gomezgroup.com,Jonathan,Rivas,Gomez Group,No-Show,Jamie Wilson,19-Jun-25,SMB
+47267e86-df88-47e2-a3a7-49adbf047911,26 June 2025,marcus.daugherty@aguilaranalytics.com,Marcus,Daugherty,Aguilar Analytics,No-Show,Casey Miller,06/27/2025,ENT
+f45baf83-339d-4c35-8c53-ff8a9c350092,"Jul 03, 2025",joshua.white@medina-arroyoinnovations.com,Joshua,White,Medina-Arroyo Innovations,Scheduled,Jordan Johnson,07/12/2025,MM
+ecb4c629-6efc-4615-b417-d14fe86e0984,20250609,richard.cooper@titanlabs.com,Richard,Cooper,Titan Labs,Canceled,Jordan Johnson,20250620,MM
+07511cd0-8447-49dc-9b33-dd91445d3d65,28-Jun-25,karen.graham@bluecapital.com,Karen,Graham,Blue Capital,Scheduled,Alex Smith,20250720,MM
+317af1ff-9366-4cff-b96a-b7693f748fc8,06/02/2025,joshua.reed@pioneertechnologies.com,Joshua,Reed,Pioneer Technologies,Held,Casey Miller,03/06/2025,ENT
+658cbdcf-6bfc-4174-8bbf-788f465f6371,20250616,shannon.lloyd@owens-russellanalytics.com,Shannon,Lloyd,Owens-Russell Analytics,No-Show,Morgan Brown,2025-07-05,MM
+2b8ba779-2d73-488f-8135-e12159d63097,"Jun 23, 2025",gary.jennings@newton-group.com,Gary,Jennings,Newton Group,No-Show,Alex Smith,09 July 2025,MM
+4c8cd0a3-ff6e-4ef1-88ef-61c2923a9ca0,19-Apr-25,howard.norman@quantumanalytics.com,Howard,Norman,Quantum Analytics,No-Show,Alex Smith,"Apr 21, 2025",MM
+fdda4685-d0fc-48db-8fd2-1b6dd7c563b8,04-14-2025,meghan.rush@quantumsystems.com,Meghan,Rush,Quantum Systems,Held,Jamie Wilson,17/04/2025,SMB
+d086d9d3-1a08-46f3-b5f1-4e1de40d95ed,2025/06/15 0:00,justin.cohen@watsongroup.com,Justin,Cohen,Watson Group,No-Show,Casey Miller,"Jun 17, 2025",ENT
+8ba8653e-e74f-4128-b27b-6464e4ac1b21,06-Jul-25,glen.owen@matthewsservices.com,Glen,Owen,Matthews Services,No-Show,Casey Miller,10 July 2025,ENT
+7063c8b1-57f8-43a7-977e-452d46f8183d,22-Apr-25,rebecca.henderson@mosaicservices.com,Rebecca,Henderson,Mosaic Services,Held,Jamie Wilson,23/04/2025,SMB
+8df2cd0f-ee12-4a44-af7b-1b48cf8c8e17,24-May-25,kaylee.hays@novaservices.com,Kaylee,Hays,Nova Services,Canceled,Casey Miller,27 May 2025,ENT
+63736817-9ef6-4cf2-a85a-f0345371d178,20250628,cheryl.braun@green-carterworks.com,Cheryl,Braun,Green-Carter Works,Scheduled,Alex Smith,2025/07/14 0:00,MM
+1f17ec63-efc8-490d-af0b-17f1d1fcb8fc,07/07/2025,richard.douglas@brown-networks.com,Richard,Douglas,Brown Networks,Scheduled,Morgan Brown,20/07/2025,MM
+eb76bfa5-6d75-4946-80d1-5459f6e13130,2025/06/28 0:00,deborah.garcia@mcgee-smithstudios.com,Deborah,Garcia,Mcgee-Smith Studios,No-Show,Morgan Brown,07-08-2025,MM
+282d0e18-d6ed-4ebb-9802-fb5ba8e661c8,"Jun 29, 2025",jessica.gross@vertexventures.com,Jessica,Gross,Vertex Ventures,Scheduled,Jordan Johnson,17 July 2025,MM
+1fc71b30-70e5-476b-920b-cc521c3a7f90,07/08/2025,joseph.may@brown-innovations.com,Joseph,May,Brown Innovations,Scheduled,Jamie Wilson,12 July 2025,SMB
+9eeaa2f0-9fb0-491c-9627-05b1ed0ee6f7,13/04/2025,connie.lawrence@quantumglobal.com,Connie,Lawrence,Quantum Global,Held,Morgan Brown,2025-04-17,MM
+9ec5057d-b106-4172-9348-f6b8842024d1,"Jul 01, 2025",joshua.blair@silversolutions.com,Joshua,Blair,Silver Solutions,Scheduled,Morgan Brown,18/07/2025,MM
+6e870f9f-ad44-4f47-ae8b-b4cb20547064,15/04/2025,lawrence.harrington@nimbusglobal.com,Lawrence,Harrington,Nimbus Global,Held,Casey Miller,17 April 2025,ENT
+a371b3b3-678c-48f2-8988-f36ad4621ca4,07-Jul-25,guy.hansen@kinglabs.com,Guy,Hansen,King Labs,Scheduled,Alex Smith,21 July 2025,MM
+b946e117-cd67-41e9-ab80-0509b01d6d15,2025/06/23 0:00,joshua.ross@petersenholdings.com,Joshua,Ross,Petersen Holdings,No-Show,Taylor Lee,07-Jul-25,MM
+a1c84d17-a42e-41b4-a611-93c9658ba26a,2025-06-14,paul.wilson@lunargroup.com,Paul,Wilson,Lunar Group,Held,Alex Smith,2025-06-27,MM
+2c0a97a5-b51b-4489-8292-ed58a3960511,"Jun 29, 2025",natasha.vaughn@wheeler-innovations.com,Natasha,Vaughn,Wheeler Innovations,No-Show,Taylor Lee,10-Jul-25,MM
+1e8e7497-e3c0-4003-93e6-f5b99b8aa183,2025-05-10,elaine.brooks@lunarconsulting.com,Elaine,Brooks,Lunar Consulting,Held,Taylor Lee,2025/05/13 0:00,MM
+af34a53c-db6e-44a6-bbb9-e9886c47bda7,2025-07-08,sharon.cherry@pioneeranalytics.com,Sharon,Cherry,Pioneer Analytics,Scheduled,Morgan Brown,2025-07-17,MM
+a500606e-7c25-4d66-8494-0f2d136aac31,"Apr 15, 2025",aimee.montoya@vertexholdings.com,Aimee,Montoya,Vertex Holdings,Held,Taylor Lee,20250418,MM
+669e2ef1-9887-48fb-8d70-7ca9889bf6ea,10-Jul-25,kevin.manning@walters-ventures.com,Kevin,Manning,Walters Ventures,No-Show,Casey Miller,07-11-2025,ENT
+72c82916-f15b-4ddd-9f27-b5b8128f943b,20250623,antonio.reed@brown-consulting.com,Antonio,Reed,Brown Consulting,No-Show,Alex Smith,2025-07-03,MM
+6e247099-9a28-4037-b054-0eebe9371351,2025-05-03,yvonne.chambers@cascadelabs.com,Yvonne,Chambers,Cascade Labs,Cancelled,Taylor Lee,2025/05/06 0:00,MM
+b474a242-ec62-445b-8b29-43eb14cf77d7,06/11/2025,amber.obrien@mosaicinnovations.com,Amber,Obrien,Mosaic Innovations,Canceled,Jordan Johnson,06/30/2025,MM
+8fc1470b-4175-4e59-a036-37df3cf6ee43,"Jul 02, 2025",katherine.perez@andrade-mendozainnovations.com,Katherine,Perez,Andrade-Mendoza Innovations,No-Show,Casey Miller,03/07/2025,ENT
+68be31fe-7671-48f2-bac7-7c63b3b73f54,07/04/2025,benjamin.green@holland-labs.com,Benjamin,Green,Holland Labs,Scheduled,Alex Smith,07-22-2025,MM
+1d535ef7-64e7-4030-ac9f-4bc86af26af7,20250601,alexander.collins@goldengroup.com,Alexander,Collins,Golden Group,Held,Casey Miller,06-02-2025,ENT
+dfda01e1-6557-4676-b52e-a28719be4304,"Jun 16, 2025",kim.flores@wallace-technologies.com,Kim,Flores,Wallace Technologies,No-Show,Jamie Wilson,17 June 2025,SMB
+d034921e-acc6-4b0e-82f7-02ea3087b68b,2025/06/27 0:00,patricia.bush@terry-works.com,Patricia,Bush,Terry Works,No-Show,Jamie Wilson,"Jun 30, 2025",SMB
+efd23edc-1fbc-44a7-8623-864b2bf83fc1,10 May 2025,jason.stein@novaconsulting.com,Jason,Stein,Nova Consulting,Held,Morgan Brown,14-May-25,MM
+ccea08c9-0545-4895-829d-56252c7d55d2,"Jun 23, 2025",christina.craig@rodriguez-enterprises.com,Christina,Craig,Rodriguez Enterprises,No-Show,Alex Smith,2025/07/05 0:00,MM
+90fce337-4557-4a41-a4bc-b5fbbbd4947e,05-19-2025,travis.tucker@phoenixdevices.com,Travis,Tucker,Phoenix Devices,Held,Morgan Brown,05/20/2025,MM
+40522a02-6555-408e-9dfa-e6aaacf4c721,06/25/2025,anthony.harmon@bluepartners.com,Anthony,Harmon,Blue Partners,Scheduled,Taylor Lee,07/14/2025,MM
+531cb562-8921-4054-ab08-ab86e073dc39,13/04/2025,brandon.fleming@goldenpartners.com,Brandon,Fleming,Golden Partners,Held,Morgan Brown,16 April 2025,MM
+1b86c185-0056-4836-bbda-0e9fd98f7cb6,06/07/2025,john.baker@adamsholdings.com,John,Baker,Adams Holdings,Scheduled,Taylor Lee,22/07/2025,MM
+852eb39a-0f8e-4235-904b-01b7036614a3,07/07/2025,tammie.garcia@hollandinnovations.com,Tammie,Garcia,Holland Innovations,No-Show,Jamie Wilson,2025/07/11 0:00,SMB
+80351528-a3b4-4a97-9373-0aad8b5772de,07 July 2025,alexander.graves@orrcapital.com,Alexander,Graves,Orr Capital,Scheduled,Jamie Wilson,07/12/2025,SMB
+f6fa44bc-9188-42d3-8555-20c88fd2254a,07/02/2025,chad.scott@titanworks.com,Chad,Scott,Titan Works,Scheduled,Taylor Lee,07/16/2025,MM
+7f613812-d62f-42af-b8e1-3cd1e2e0a0cc,06-29-2025,deborah.jenkins@rivera-carteranalytics.com,Deborah,Jenkins,Rivera-Carter Analytics,Scheduled,Taylor Lee,07-16-2025,MM
+602d9cb9-2677-421f-b81a-98b7f32f00ba,06-27-2025,nathan.lynch@hancockanalytics.com,Nathan,Lynch,Hancock Analytics,No-Show,Jordan Johnson,06-Jul-25,MM
+768db7e0-7df9-4158-9d45-50811a71a17d,20/05/2025,angela.lopez@horizonsystems.com,Angela,Lopez,Horizon Systems,Held,Casey Miller,05/23/2025,ENT
+3aba4427-bfaf-41ed-819e-a034d586b4a5,2025/06/23 0:00,madison.weber@adamspartners.com,Madison,Weber,Adams Partners,No-Show,Jamie Wilson,06/24/2025,SMB
+1ce440bc-83db-460a-9b8c-4a9feecf468b,2025-07-12,kimberly.warren@cruz-works.com,Kimberly,Warren,Cruz Works,Scheduled,Casey Miller,2025-07-19,ENT
+c9202a0d-cc60-471c-b6c8-0c1ae08dbe2a,14/05/2025,michelle.brown@quantuminnovations.com,Michelle,Brown,Quantum Innovations,No-Show,Taylor Lee,20250520,MM
+48c8963d-6393-4b9d-917f-155ff0019ed3,06/10/2025,ana.hill@summitsolutions.com,Ana,Hill,Summit Solutions,Held,Alex Smith,2025-06-19,MM
+b1df91f3-a7ce-48a5-8276-3048f26e19f2,20250602,susan.serrano@pioneerventures.com,Susan,Serrano,Pioneer Ventures,Held,Casey Miller,06/06/2025,ENT
+dc6f7589-0211-4d03-810d-6db4f131c20f,20250709,kenneth.lewis@velocityanalytics.com,Kenneth,Lewis,Velocity Analytics,Scheduled,Jordan Johnson,07/25/2025,MM
+1944d29e-23ec-4e68-862a-ad738303983c,2025/06/20 0:00,timothy.davis@davisenterprises.com,Timothy,Davis,Davis Enterprises,No-Show,Taylor Lee,2025-07-04,MM
+ffcee08d-75fc-46eb-b5b2-3839c9346a28,06/23/2025,erin.warner@cascadeservices.com,Erin,Warner,Cascade Services,Scheduled,Taylor Lee,2025-07-12,MM
+18ad5f75-d242-474b-8177-a57a96d95d5d,03/05/2025,marc.moore@redwoodnetworks.com,Marc,Moore,Redwood Networks,Held,Casey Miller,2025-05-08,ENT
+38c6afec-b704-469e-96f1-c8cd699a7a1e,2025-07-05,christopher.cox@thomas-global.com,Christopher,Cox,Thomas Global,Scheduled,Jordan Johnson,07/18/2025,MM
+d88e9741-2653-4cfe-a252-ef9ba5ca1cb3,20250702,gabrielle.serrano@brooksstudios.com,Gabrielle,Serrano,Brooks Studios,Scheduled,Morgan Brown,12-Jul-25,MM
+6058bb7b-8ab6-429c-9699-dff8f37c4fae,2025-05-11,michelle.harmon@lunarlabs.com,Michelle,Harmon,Lunar Labs,No-Show,Casey Miller,20250517,ENT
+bed30f2c-6700-40aa-bfc6-bab9500635a2,20250613,kimberly.lewis@beck-partners.com,Kimberly,Lewis,Beck Partners,No-Show,Riley Davis,06/18/2025,SMB
+cb24b653-8a3b-4e32-8f29-4a5c0adf2b1b,2025-05-18,john.bishop@redwoodinnovations.com,John,Bishop,Redwood Innovations,Held,Riley Davis,05-22-2025,SMB
+ced496b7-cc6a-4d0e-958b-13c5ce7afef8,20250625,deborah.figueroa@pioneerlabs.com,Deborah,Figueroa,Pioneer Labs,Held,Taylor Lee,"Jul 07, 2025",MM
+3d398076-9825-4372-b971-81ff23381da1,2025/06/23 0:00,dennis.mason@rios-analytics.com,Dennis,Mason,Rios Analytics,No-Show,Jordan Johnson,07/07/2025,MM
+7dbfaeee-fbfc-4da4-b024-d967939522f1,20250413,briana.murray@lunarnetworks.com,Briana,Murray,Lunar Networks,Held,Alex Smith,04/19/2025,MM
+01ee233f-69c9-46cc-b434-7f5ac581b4c4,07-09-2025,lisa.jackson@phoenixdynamics.com,Lisa,Jackson,Phoenix Dynamics,Scheduled,Morgan Brown,07/21/2025,MM
+3a04eb75-15b0-4e48-8c84-1d04ee4ee349,2025/06/17 0:00,jamie.little@robinson-enterprises.com,Jamie,Little,Robinson Enterprises,No-Show,Riley Davis,2025/06/20 0:00,SMB
+2ac1e761-eefe-42c5-9211-a9fda7d04536,21-Apr-25,jeremy.turner@mosaicglobal.com,Jeremy,Turner,Mosaic Global,Held,Quinn Thomas,2025-04-26,ENT
+9850f4b9-134f-4a49-aac0-205e05237330,07-Jun-25,michael.lyons@goldenanalytics.com,Michael,Lyons,Golden Analytics,Held,Taylor Lee,26/06/2025,MM
+31ffb8d1-a946-4f4f-ab8d-605f4b0676d9,2025/04/28 0:00,daniel.wagner@silverholdings.com,Daniel,Wagner,Silver Holdings,No-Show,Taylor Lee,29/04/2025,MM
+5e626e24-cd13-477c-8d68-780f4301d0f7,06-23-2025,gerald.hensley@vertexenterprises.com,Gerald,Hensley,Vertex Enterprises,Scheduled,Morgan Brown,13/07/2025,MM
+98b6412e-6fda-43cf-9c16-30a33abfb873,05-06-2025,robin.thompson@mosaicholdings.com,Robin,Thompson,Mosaic Holdings,Held,Riley Davis,20250512,SMB
+0d740032-809c-47da-a25f-fad10a0cdd2a,07-May-25,taylor.carlson@horizoncapital.com,Taylor,Carlson,Horizon Capital,No-Show,Quinn Thomas,20250513,ENT
+df3bab08-a0de-4c90-8234-ab888f2dc0b8,2025-06-28,noah.rhodes@phoenixsolutions.com,Noah,Rhodes,Phoenix Solutions,Scheduled,Alex Smith,"Jul 16, 2025",MM
+4733de8a-7d89-469c-ba94-642a7807c98d,07-06-2025,robin.brown@bluenetworks.com,Robin,Brown,Blue Networks,Scheduled,Jordan Johnson,20250721,MM
+db48414f-061f-4a4a-b2ba-bf8bec827a8e,2025/06/30 0:00,michael.farrell@pioneersystems.com,Michael,Farrell,Pioneer Systems,Scheduled,Jordan Johnson,2025-07-14,MM
+dc842533-96c4-44b2-9ad7-f144f929e3bf,06-25-2025,nicole.bell@mueller-partners.com,Nicole,Bell,Mueller Partners,No-Show,Quinn Thomas,29 June 2025,ENT
+67cda461-cc27-46c1-b2ca-39d3109282e2,13/06/2025,samuel.barnes@wright-capital.com,Samuel,Barnes,Wright Capital,No-Show,Riley Davis,20 June 2025,SMB
+c2329cf1-8f53-4e49-b343-a75f1a6cce8a,20/04/2025,amanda.jones@stellarenterprises.com,Amanda,Jones,Stellar Enterprises,Held,Taylor Lee,26-Apr-25,MM
+555c8bf3-5b0d-4bda-88ff-663e3a0c4c55,12-Jul-25,rebecca.hood@hardy-hansensystems.com,Rebecca,Hood,Hardy-Hansen Systems,Scheduled,Jordan Johnson,07-27-2025,MM
+c4260c28-a640-42ae-aed7-41931508ea56,09-Jul-25,ashley.rosales@reyesenterprises.com,Ashley,Rosales,Reyes Enterprises,Scheduled,Quinn Thomas,20250714,ENT
+18305622-71e5-44b2-8bac-4eb6c5f0880a,11-Jul-25,richard.costa@decker-dudleynetworks.com,Richard,Costa,Decker-Dudley Networks,Scheduled,Jordan Johnson,27-Jul-25,MM
+778c7819-0adc-487c-9ad2-97583c0d0d47,2025-06-29,alan.craig@baker-holdings.com,Alan,Craig,Baker Holdings,Scheduled,Jordan Johnson,17-Jul-25,MM
+ef72efc0-668d-44c8-917d-d3508d930248,23-Jun-25,brian.lee@quantumdynamics.com,Brian,Lee,Quantum Dynamics,No-Show,Alex Smith,"Jul 10, 2025",MM
+45793b33-cdf0-49c6-a666-85e4280c87df,07-Jul-25,gabriel.gutierrez@durham-shawservices.com,Gabriel,Gutierrez,Durham-Shaw Services,No-Show,Quinn Thomas,10/07/2025,ENT
+35bad52b-9410-45d6-9dc8-faf421c9c5d8,"May 17, 2025",allison.smith@nimbusstudios.com,Allison,Smith,Nimbus Studios,Held,Alex Smith,2025-05-19,MM
+b941bb40-9490-4527-91d5-b81c5d032c7e,06/10/2025,andrew.reynolds@novaworks.com,Andrew,Reynolds,Nova Works,No-Show,Jordan Johnson,29-Jun-25,MM
+578d9060-31b6-44a7-be61-ed3c2c4af7e5,2025-06-26,jacob.baker@solis-westtechnologies.com,Jacob,Baker,Solis-West Technologies,No-Show,Taylor Lee,05/07/2025,MM
+e1b7959d-2d5d-423f-9e00-31fdf48978b5,20250711,jim.barnett@powers-services.com,Jim,Barnett,Powers Services,Scheduled,Alex Smith,29 July 2025,MM
+42729eb8-12eb-4d7b-8058-cbc3828893e8,2025-06-28,julian.conner@velocityservices.com,Julian,Conner,Velocity Services,Held,Taylor Lee,2025/07/08 0:00,MM
+294a814f-69f3-468f-a1e9-938a84994be7,07-Jul-25,kathryn.dixon@walker-lewisservices.com,Kathryn,Dixon,Walker-Lewis Services,Scheduled,Jordan Johnson,2025/07/23 0:00,MM
+bc9a23b9-10d9-411f-8ce7-209896adea57,"Jun 20, 2025",christina.kelly@lewis-livingstonnetworks.com,Christina,Kelly,Lewis-Livingston Networks,No-Show,Quinn Thomas,06-21-2025,ENT
+f16d0a04-b994-4695-b975-6b1263f58b9c,17-Jun-25,mark.cox@novapartners.com,Mark,Cox,Nova Partners,No-Show,Alex Smith,07-03-2025,MM
+b0577593-d535-4615-ba22-dc4e63baae4a,06/28/2025,daryl.palmer@thomas-santiagoanalytics.com,Daryl,Palmer,Thomas-Santiago Analytics,No-Show,Taylor Lee,20250707,MM
+9443d5f8-1cb9-41d3-8198-d71a7e8c93e4,13-Jun-25,jenna.powell@green-ewingworks.com,Jenna,Powell,Green-Ewing Works,No-Show,Quinn Thomas,2025-06-15,ENT
+ed6c6a43-dbbc-4993-a34e-678983010f4e,2025-05-18,carlos.ryan@mosaicgroup.com,Carlos,Ryan,Mosaic Group,Canceled,Alex Smith,20-May-25,MM
+d86e758d-33d9-4ac3-bcdf-1d8638421c4a,06/23/2025,eugene.jones@foster-williamsdevices.com,Eugene,Jones,Foster-Williams Devices,No-Show,Taylor Lee,20250705,MM
+af38bc05-71a9-46bc-9a60-20c32c0c7c35,07-May-25,justin.torres@nimbuscapital.com,Justin,Torres,Nimbus Capital,Held,Riley Davis,20250508,SMB
+44b1d9d2-a84a-459e-8f5b-76e95a853f2e,23/04/2025,christopher.parker@cascadeanalytics.com,Christopher,Parker,Cascade Analytics,No-Show,Taylor Lee,29 April 2025,MM
+401b71b9-d78f-4874-8011-c5aadebb89d3,2025-06-25,stephen.martinez@warner-phillipscapital.com,Stephen,Martinez,Warner-Phillips Capital,Scheduled,Jordan Johnson,13/07/2025,MM
+7267abf5-3409-4eb3-9569-662e7c23554d,24/05/2025,tina.sanders@forgesystems.com,Tina,Sanders,Forge Systems,No-Show,Riley Davis,20250527,SMB
+792d2066-58ca-43fa-8e14-2077e33e02d8,06/16/2025,shannon.walker@redwoodconsulting.com,Shannon,Walker,Redwood Consulting,Held,Jordan Johnson,01/07/2025,MM
+aa446bb3-40e3-4543-9df9-53e50d88d78b,05/28/2025,felicia.aguilar@silverpartners.com,Felicia,Aguilar,Silver Partners,No-Show,Riley Davis,2025/05/30 0:00,SMB
+e70b5ef1-7f51-400b-beed-6b3d68a07927,"Apr 22, 2025",michele.williams@stellarworks.com,Michele,Williams,Stellar Works,Held,Morgan Brown,20250426,MM
+ecc3dbdd-3e9b-454c-9a8f-588ae83e8532,20250618,william.hancock@wooddynamics.com,William,Hancock,Wood Dynamics,No-Show,Quinn Thomas,19-Jun-25,ENT
+f1bd9814-dc87-43c4-b7ed-4d0befa1940e,06/23/2025,donald.moore@taylor-ventures.com,Donald,Moore,Taylor Ventures,No-Show,Taylor Lee,07/11/2025,MM
+67397993-0b25-445e-93e2-3e15c53a9677,"Jun 12, 2025",felicia.harris@moorenetworks.com,Felicia,Harris,Moore Networks,No-Show,Riley Davis,20250613,SMB
+1d8b0fa5-f4ab-44dc-8541-0bc59e2b6977,06/24/2025,gregory.snyder@aguilar-bendersolutions.com,Gregory,Snyder,Aguilar-Bender Solutions,No-Show,Jordan Johnson,07-11-2025,MM
+d59dc1d5-d990-4b66-a96c-00d8f3de0b62,27/04/2025,evelyn.martinez@phoenixsystems.com,Evelyn,Martinez,Phoenix Systems,No-Show,Alex Smith,2025-04-30,MM
+65e0d9ae-2bd4-49da-9ba6-8e30c2012186,06-30-2025,madison.poole@cascadesystems.com,Madison,Poole,Cascade Systems,Scheduled,Taylor Lee,12 July 2025,MM
+11d71f05-57e4-452e-a45e-52f1e9e4ea2b,07/04/2025,tammy.fleming@gonzalez-wilkersonpartners.com,Tammy,Fleming,Gonzalez-Wilkerson Partners,No-Show,Riley Davis,07-08-2025,SMB
+d814a36e-5e4b-46af-b664-1e3a3ef9a1b2,08-Jun-25,ashley.hicks@summitgroup.com,Ashley,Hicks,Summit Group,Held,Taylor Lee,"Jun 25, 2025",MM
+d7730593-78d2-410d-ae89-5904e78045d3,10 July 2025,timothy.sanchez@knox-powerspartners.com,Timothy,Sanchez,Knox-Powers Partners,Scheduled,Taylor Lee,2025-07-21,MM
+27a3eb43-fcbc-4ee4-bfcf-d00186d5e760,"Apr 23, 2025",angelica.parker@horizonlabs.com,Angelica,Parker,Horizon Labs,No-Show,Casey Miller,2025-04-28,ENT
+9ec5057d-b106-4172-9348-f6b8842024d1,"Jul 01, 2025",joshua.blair@silversolutions.com,Joshua,Blair,Silver Solutions,Scheduled,Morgan Brown,18/07/2025,MM
+d9dfe09b-677f-4b0d-af22-a38b0d8ee1bb,26 April 2025,shelly.spencer@novalabs.com,Shelly,Spencer,Nova Labs,No-Show,Alex Smith,05/02/2025,MM
+6fcd383a-212f-4fa7-9b1d-543d54ef7d42,19/05/2025,pamela.boyd@cascadepartners.com,Pamela,Boyd,Cascade Partners,Held,Riley Davis,05-20-2025,SMB
+ed2c6fd3-e0d8-4ebd-bdac-caabaf0ff18b,26-Jun-25,jessica.aguirre@ramirez-stephensondynamics.com,Jessica,Aguirre,Ramirez-Stephenson Dynamics,Scheduled,Alex Smith,15-Jul-25,MM
+c162e492-c16c-4206-ae8b-71df6c3189fc,20250705,danielle.hill@davis-holdings.com,Danielle,Hill,Davis Holdings,Scheduled,Alex Smith,23 July 2025,MM
+31c82748-c41d-45b4-afd2-987f8647b5b4,19-Apr-25,nathan.freeman@bluesystems.com,Nathan,Freeman,Blue Systems,No-Show,Casey Miller,2025-04-22,ENT
+84ed6d5a-9807-4bd6-ad8d-8999ce28f0ae,26-Jun-25,michael.pena@andrewspartners.com,Michael,Pena,Andrews Partners,Scheduled,Morgan Brown,2025-07-12,MM
+ee4455b5-2daf-4793-94ce-7041c94c3f75,"Jul 06, 2025",brent.jordan@horizonpartners.com,Brent,Jordan,Horizon Partners,Scheduled,Alex Smith,20250725,MM
+34e99e7a-7f13-4a6f-8762-d822b295e80f,20 May 2025,desiree.tyler@stellarventures.com,Desiree,Tyler,Stellar Ventures,No-Show,Casey Miller,"May 26, 2025",ENT
+fdf597ea-dd56-484f-8caa-9a8b3e2e27e2,04/16/2025,ashley.waller@cascadesolutions.com,Ashley,Waller,Cascade Solutions,Held,Riley Davis,19 April 2025,SMB
+b225fad8-67c0-4cce-bd4b-69c29657686e,06/23/2025,james.smith@carpenter-group.com,James,Smith,Carpenter Group,No-Show,Morgan Brown,07/09/2025,MM
+8381a0ae-7e07-461f-bff0-e1fe5c5b8a2f,"Jul 07, 2025",cindy.dixon@butler-frenchgroup.com,Cindy,Dixon,Butler-French Group,Scheduled,Jordan Johnson,07/29/2025,MM
+f840e982-5d28-446d-8afa-725983d866aa,20250627,stacey.robinson@jensen-torrestechnologies.com,Stacey,Robinson,Jensen-Torres Technologies,Scheduled,Morgan Brown,07-15-2025,MM
+b8617c82-ce35-4e94-9419-69805c2f871b,2025/06/22 0:00,sarah.holmes@smithnetworks.com,Sarah,Holmes,Smith Networks,No-Show,Jordan Johnson,10/07/2025,MM
+3425082f-6238-4d2d-9872-060f45958587,07-01-2025,paul.fields@marks-dynamics.com,Paul,Fields,Marks Dynamics,Scheduled,Jordan Johnson,2025-07-13,MM
+1fc00ce2-9b0f-46a8-83ff-676a67b1561a,06/24/2025,michael.sparks@campbell-technologies.com,Michael,Sparks,Campbell Technologies,Scheduled,Alex Smith,13 July 2025,MM
+f900e697-d9b5-4c90-850d-502fc36ed1fb,03 July 2025,angela.chase@moreno-capital.com,Angela,Chase,Moreno Capital,No-Show,Alex Smith,07/11/2025,MM
+fff3031f-b513-4a9a-a6ca-bc2baf565d91,2025-07-11,stacy.garcia@ellis-lawrencesystems.com,Stacy,Garcia,Ellis-Lawrence Systems,Scheduled,Alex Smith,20250730,MM
+5da510b6-bfa0-4300-a900-adf7f033c4cb,05 July 2025,jonathan.cannon@bryant-meyerstudios.com,Jonathan,Cannon,Bryant-Meyer Studios,Scheduled,Taylor Lee,07/13/2025,MM
+2673b303-e766-48cc-9a5c-1296fd045e05,06/17/2025,brooke.flores@mayogroup.com,Brooke,Flores,Mayo Group,No-Show,Alex Smith,20250626,MM
+695d0f38-0ef5-4b65-a331-4fd69272aaa3,12-May-25,william.gould@nimbusdevices.com,William,Gould,Nimbus Devices,No-Show,Casey Miller,2025/05/16 0:00,ENT
+07884856-0236-4389-9f31-271e0289ac24,10-Jul-25,briana.harrington@finleynetworks.com,Briana,Harrington,Finley Networks,Scheduled,Jordan Johnson,20250719,MM
+d58ec2cf-0668-4336-8fa4-cf888e9418f1,05-28-2025,jodi.roach@redwoodglobal.com,Jodi,Roach,Redwood Global,No-Show,Casey Miller,02 June 2025,ENT
+72d16446-0d96-4bee-946f-65cc958d9517,2025/06/24 0:00,michael.jones@bradford-enterprises.com,Michael,Jones,Bradford Enterprises,No-Show,Casey Miller,28 June 2025,ENT
