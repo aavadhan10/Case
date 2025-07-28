@@ -137,6 +137,7 @@ st.markdown("---")
 
 # Sidebar filters
 st.sidebar.header("🔍 Filters")
+st.sidebar.markdown("💡 **Tip**: Hold Ctrl/Cmd to select multiple options in dropdowns")
 
 # Date range filter
 if df_clean['demo_booked'].notna().any():
@@ -153,24 +154,35 @@ else:
     date_range = None
 
 # Rep filter
+all_reps = sorted(df_clean['rep'].dropna().unique())
 selected_reps = st.sidebar.multiselect(
-    "Select Sales Reps",
-    options=sorted(df_clean['rep'].dropna().unique()),
-    default=sorted(df_clean['rep'].dropna().unique())
+    "Sales Reps (Select Multiple)",
+    options=all_reps,
+    default=all_reps,
+    help="Select one or more sales reps to analyze"
 )
 
-# Segment filter
+# Segment filter with legend
+st.sidebar.markdown("**📊 Segment Legend:**")
+st.sidebar.markdown("• **SMB**: Small-Medium Business")  
+st.sidebar.markdown("• **MM**: Mid-Market")
+st.sidebar.markdown("• **ENT**: Enterprise")
+
+all_segments = sorted(df_clean['segment'].dropna().unique())
 selected_segments = st.sidebar.multiselect(
-    "Select Segments",
-    options=sorted(df_clean['segment'].dropna().unique()),
-    default=sorted(df_clean['segment'].dropna().unique())
+    "Segments (Select Multiple)",
+    options=all_segments,
+    default=all_segments,
+    help="Select one or more customer segments to analyze"
 )
 
 # Status filter
+all_statuses = sorted(df_clean['demo_status'].dropna().unique())
 selected_statuses = st.sidebar.multiselect(
-    "Select Demo Status",
-    options=sorted(df_clean['demo_status'].dropna().unique()),
-    default=sorted(df_clean['demo_status'].dropna().unique())
+    "Demo Status (Select Multiple)",
+    options=all_statuses,
+    default=all_statuses,
+    help="Select one or more demo statuses to analyze"
 )
 
 # Apply filters
@@ -182,11 +194,17 @@ if date_range and len(date_range) == 2:
         (filtered_df['demo_booked'] <= pd.to_datetime(date_range[1]))
     ]
 
-filtered_df = filtered_df[
-    (filtered_df['rep'].isin(selected_reps)) &
-    (filtered_df['segment'].isin(selected_segments)) &
-    (filtered_df['demo_status'].isin(selected_statuses))
-]
+# Only apply filters if selections are made (avoid empty dataframe)
+if selected_reps:
+    filtered_df = filtered_df[filtered_df['rep'].isin(selected_reps)]
+if selected_segments:
+    filtered_df = filtered_df[filtered_df['segment'].isin(selected_segments)]
+if selected_statuses:
+    filtered_df = filtered_df[filtered_df['demo_status'].isin(selected_statuses)]
+
+# Show filter summary
+if len(selected_reps) < len(all_reps) or len(selected_segments) < len(all_segments) or len(selected_statuses) < len(all_statuses):
+    st.info(f"📊 Showing {len(filtered_df)} of {len(df_clean)} total records with current filters")
 
 # Key Metrics Row
 st.subheader("📈 Key Performance Indicators")
@@ -250,15 +268,29 @@ with col2:
         segment_performance.columns = ['segment', 'total_meetings', 'held_meetings']
         segment_performance['conversion_rate'] = (segment_performance['held_meetings'] / segment_performance['total_meetings'] * 100).round(1)
         
+        # Add full segment names for better display
+        segment_names = {'SMB': 'Small-Medium Business', 'MM': 'Mid-Market', 'ENT': 'Enterprise'}
+        segment_performance['segment_full'] = segment_performance['segment'].map(segment_names)
+        
         fig_segment = px.bar(
             segment_performance,
             x='segment',
             y=['total_meetings', 'held_meetings'],
             title="Performance by Segment",
             barmode='group',
-            color_discrete_map={'total_meetings': '#87CEEB', 'held_meetings': '#2E8B57'}
+            color_discrete_map={'total_meetings': '#87CEEB', 'held_meetings': '#2E8B57'},
+            hover_data={'segment_full': True}
         )
-        fig_segment.update_layout(height=400)
+        
+        # Update x-axis labels to show full names
+        fig_segment.update_xaxes(
+            ticktext=[f"{row['segment']}<br>({row['segment_full']})" for _, row in segment_performance.iterrows()],
+            tickvals=segment_performance['segment']
+        )
+        
+        fig_segment.update_layout(height=400, legend=dict(
+            orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1
+        ))
         st.plotly_chart(fig_segment, use_container_width=True)
     else:
         st.info("No data available for segment analysis")
