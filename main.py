@@ -507,7 +507,7 @@ with col2:
 # Data Tables Section
 st.subheader("📋 Data Inspection")
 
-tab1, tab2, tab3 = st.tabs(["Raw Data", "Cleaned Data", "Data Quality Issues"])
+tab1, tab2, tab3 = st.tabs(["Raw Data", "Cleaned Data", "Comprehensive Data Cleaning Process"])
 
 with tab1:
     st.markdown("**Original Raw Data**")
